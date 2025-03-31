@@ -1,14 +1,5 @@
-# Guía Básica de Markdown y Git
+# GRUPO2-ISB-2025-I
 
-Este archivo contiene los comandos más importantes para trabajar con **Markdown** y **Git**.
+## Introducción
+¡Bienvenidos! Este repositorio contiene los materiales, códigos y documentación del Grupo 2 para nuestro proyecto y laboratorios en el curso de Introducción a Señales Biomédicas 2025-I. Aquí registraremos nuestros avances y análisis, con el objetivo de explorar, aprender y aplicar conceptos en señales biomédicas mediante un enfoque práctico y colaborativo.
 
----
-
-## Comandos Básicos de Markdown
-
-### 1. **Encabezados**
-```markdown
-# Encabezado de Nivel 1
-## Encabezado de Nivel 2
-### Encabezado de Nivel 3
-#### Encabezado de Nivel 4
