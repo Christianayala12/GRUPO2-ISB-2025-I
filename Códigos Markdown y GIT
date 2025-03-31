@@ -1,0 +1,14 @@
+# Guía Básica de Markdown y Git
+
+Este archivo contiene los comandos más importantes para trabajar con **Markdown** y **Git**.
+
+---
+
+## Comandos Básicos de Markdown
+
+### 1. **Encabezados**
+```markdown
+# Encabezado de Nivel 1
+## Encabezado de Nivel 2
+### Encabezado de Nivel 3
+#### Encabezado de Nivel 4
