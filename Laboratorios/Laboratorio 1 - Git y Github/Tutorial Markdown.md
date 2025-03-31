@@ -30,7 +30,7 @@ Para la creación de títulos y subtítulos, se utiliza el símbolo `#` seguido 
 | Subrayado | `<ins> </ins>` | `<ins>Texto</ins>` | <ins>Texto</ins> |
 
 ## Tablas
-las tablas se estructuran con `|` (barras verticales) para separar columnas y `-` (guiones) para crear la línea divisoria entre los encabezados y los datos.
+Las tablas se estructuran con `|` (barras verticales) para separar columnas y `-` (guiones) para crear la línea divisoria entre los encabezados y los datos. Además, `:` se usa para centrar el texto.  
 
 ```
 |**Encabezado 1** |**Encabezado 2** |**Encabezado 3**|
