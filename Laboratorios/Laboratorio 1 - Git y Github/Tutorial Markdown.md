@@ -22,6 +22,12 @@ Para la creación de títulos y subtítulos, se utiliza el símbolo `#` seguido 
 ###### Título nivel 6 
 
 ## Estilos de texto
+| Estilo   | Sintaxis        | Ejemplo                  | Resultados                       |
+|----------|----------------|--------------------------|----------------------------------|
+| Negrita | `** **` o `__ __` | `**Texto**` | **Texto** |
+| Cursiva | `* *` o `_ _` | `_Texto_` | *Texto* |
+| Tachado | `~~ ~~` | `~~Texto~~` | ~~Texto~~ |
+| Subrayado | `<ins> </ins>` | `<ins>Texto</ins>` | <ins>Texto</ins> |
 
 ## Vínculos
 
