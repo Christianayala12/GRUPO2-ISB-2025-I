@@ -44,7 +44,7 @@ Las tablas se estructuran con `|` (barras verticales) para separar columnas y `-
 
 
 
-## Vínculos
+## Enlaces
 
 ## Imágenes
 
