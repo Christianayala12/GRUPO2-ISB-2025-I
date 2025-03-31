@@ -13,15 +13,13 @@ Para la creación de títulos y subtítulos, se utiliza el símbolo `#` seguido 
 #### Título nivel 4  
 ##### Título nivel 5
 ###### Título nivel 6
-####### Título nivel 7 
 ```
 # Título nivel 1  
 ## Título nivel 2
 ### Título nivel 3
 #### Título nivel 4  
 ##### Título nivel 5
-###### Título nivel 6
-####### Título nivel 7 
+###### Título nivel 6 
 
 ## Estilos de texto
 
