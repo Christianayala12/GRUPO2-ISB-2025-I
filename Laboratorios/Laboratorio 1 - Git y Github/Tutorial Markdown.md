@@ -4,6 +4,8 @@ Markdown es un lenguaje que permite dar formato a textos de manera sencilla util
 A continuación se presenta un tutorial con la sintaxis más común de Markdown
 
 ## Encabezados
+Para la creación de títulos y subtítulos, se utiliza el símbolo `#` seguido de un espacio y el texto del título. Mientras más `#` se adicionen, el nivel del encabezado disminuirá.
+
 
 ## Estilos de texto
 
@@ -12,8 +14,5 @@ A continuación se presenta un tutorial con la sintaxis más común de Markdown
 ## Imágenes
 
 ## Listas
-
-##
-
 
 ## Referencias Bibliográficas
