@@ -32,11 +32,11 @@ Para la creación de títulos y subtítulos, se utiliza el símbolo `#` seguido 
 ## Tablas
 las tablas se estructuran con `|` (barras verticales) para separar columnas y `-` (guiones) para crear la línea divisoria entre los encabezados y los datos.
 
-`
+```
 |**Encabezado 1** |**Encabezado 2** |**Encabezado 3**|
 |:----------|:------:|--------:|
 | Texto 1   | Texto 2 | Texto 3 |
-`
+```
 
 | **Encabezado 1** | **Encabezado 2** | **Encabezado 3** |
 |:----------|:------:|--------:|
