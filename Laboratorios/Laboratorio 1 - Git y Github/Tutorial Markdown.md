@@ -51,4 +51,4 @@ Las tablas se estructuran con `|` (barras verticales) para separar columnas y `-
 ## Listas
 
 ## Referencias Bibliográficas
-1. “Sintaxis de Escritura Y Formato Básicos - Documentación de GitHub.” GitHub Docs, 2025, docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. Accessed 31 Mar. 2025.
+1. “Sintaxis de Escritura Y Formato Básicos - Documentación de GitHub.” GitHub Docs, 2025, docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. 
