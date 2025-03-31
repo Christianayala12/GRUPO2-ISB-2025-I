@@ -43,12 +43,33 @@ Las tablas se estructuran con `|` (barras verticales) para separar columnas y `-
 | Texto 1   | Texto 2 | Texto 3 |
 
 
+## Listas
+### Lista sin ordenar
+Para crear una lista de este tipo se utiliza `-`,`*`,`+` antes de la línea de texto.
+```
+- Azul
+* Verde
++ Amarillo
+```
+- Azul
+* Verde
++ Amarillo
 
-## Enlaces
+### Lista ordenada
+Para crear una lista ordenada, se antecede el texto con un número.
+```
+1. Azul
+2. Verde
+3. Amarillo
+```
+1. Azul
+2. Verde
+3. Amarillo
+
 
 ## Imágenes
 
-## Listas
+## Enlaces
 
 ## Referencias Bibliográficas
 1. “Sintaxis de Escritura Y Formato Básicos - Documentación de GitHub.” GitHub Docs, 2025, docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. 
