@@ -75,9 +75,9 @@ Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home)
 Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home).
 
 ```
-![Imagen de prueba](./Laboratorios/Laboratorio 1 - Git y Github/imagen.jpeg)
+![Imagen de prueba](./directorio 1/directorio 2/imagen.jpeg)
 ```
-![Imagen de prueba](./Laboratorios/Laboratorio 1 - Git y Github/imagen.jpeg)
+![Imagen de prueba](./Laboratorios/Laboratorio 1 - Git y Github/Imágenes/IMG1.png)
 
 
 ## Referencias Bibliográficas
