@@ -74,6 +74,10 @@ Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home)
 ```
 Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home).
 
+```
+![Imagen de prueba](https://sites.google.com/view/isbcurso/home).
+```
+
 
 ## Referencias Bibliográficas
 1. “Sintaxis de Escritura Y Formato Básicos - Documentación de GitHub.” GitHub Docs, 2025, docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. 
