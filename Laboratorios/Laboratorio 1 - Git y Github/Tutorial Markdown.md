@@ -75,7 +75,7 @@ Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home)
 Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home).
 
 ```
-![Imagen de prueba](./directorio 1/directorio 2/imagen.jpeg)
+![Imagen de prueba](...directorio 1/directorio 2/imagen.jpeg)
 ```
 ![Imagen de prueba](Imagenes/imagen1.png)
 
