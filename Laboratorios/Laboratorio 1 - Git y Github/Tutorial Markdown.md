@@ -66,10 +66,14 @@ Para crear una lista ordenada, se antecede el texto con un número.
 2. Verde
 3. Amarillo
 
+## Enlaces e imágenes
+Para agregar un enlace, se utiliza corchetes `[]` para el texto del enlace y paréntesis `()` para la URL del enlace. Para insertar una imagen, se utiliza  `!`, antes del los paréntesis y corchetes.
 
-## Imágenes
+```
+Enlace a la [página web del curso] (https://sites.google.com/view/isbcurso/home).
+```
 
-## Enlaces
+
 
 ## Referencias Bibliográficas
 1. “Sintaxis de Escritura Y Formato Básicos - Documentación de GitHub.” GitHub Docs, 2025, docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. 
