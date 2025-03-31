@@ -72,7 +72,7 @@ Para agregar un enlace, se utiliza corchetes `[]` para el texto del enlace y par
 ```
 Enlace a la [página web del curso] (https://sites.google.com/view/isbcurso/home).
 ```
-
+Enlace a la [página web del curso] (https://sites.google.com/view/isbcurso/home).
 
 
 ## Referencias Bibliográficas
