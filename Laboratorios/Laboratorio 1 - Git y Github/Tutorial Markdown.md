@@ -70,9 +70,9 @@ Para crear una lista ordenada, se antecede el texto con un número.
 Para agregar un enlace, se utiliza corchetes `[]` para el texto del enlace y paréntesis `()` para la URL del enlace. Para insertar una imagen, se utiliza  `!`, antes del los paréntesis y corchetes.
 
 ```
-Enlace a la [página web del curso] (https://sites.google.com/view/isbcurso/home).
+Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home).
 ```
-Enlace a la [página web del curso] (https://sites.google.com/view/isbcurso/home).
+Enlace a la [página web del curso](https://sites.google.com/view/isbcurso/home).
 
 
 ## Referencias Bibliográficas
