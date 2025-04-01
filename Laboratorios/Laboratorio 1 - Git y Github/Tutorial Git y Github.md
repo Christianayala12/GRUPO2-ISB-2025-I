@@ -123,5 +123,5 @@ git blame archivo.txt
 ```
 
 # REFERENCIAS
-[1] https://docs.github.com/es/get-started/start-your-journey/about-github-and-git
+[1] «Acerca de GitHub y Git - documentación de GitHub», GitHub Docs. https://docs.github.com/es/get-started/start-your-journey/about-github-and-git
 
