@@ -91,11 +91,10 @@ Esta es una `línea de código`
 Para incluir un bloque con varías líneas de código, se utiliza tres comillas invertidas al inicio y al final
 
 ```
-```
 git add .
 git commit -u "mensaje"
 git push
-```
+
 ```
 
 ## Referencias Bibliográficas
