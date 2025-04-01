@@ -121,3 +121,7 @@ git rm archivo.txt
 ```bash
 git blame archivo.txt
 ```
+
+# REFERENCIAS
+[1] https://docs.github.com/es/get-started/start-your-journey/about-github-and-git
+
