@@ -94,8 +94,20 @@ Para incluir un bloque con varías líneas de código, se utiliza tres comillas 
 git add .
 git commit -m "mensaje"
 git push -u origin master
+```
+
+## Lista de tareas
+Se utiliza un guión primero, seguido de `[ ]` con los elementos de la lista. Para indicar una tarea completada se usa `[x]`.
 
 ```
+- [x] Tarea 1
+- [ ] Tarea 2
+- [x] Tarea 3
+```
+- [x] Tarea 1
+- [ ] Tarea 2
+- [x] Tarea 3
+
 
 ## Referencias Bibliográficas
 1. “Sintaxis de Escritura Y Formato Básicos - Documentación de GitHub.” GitHub Docs, 2025, docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. 
