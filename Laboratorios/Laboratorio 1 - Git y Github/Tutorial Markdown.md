@@ -90,12 +90,13 @@ Esta es una `línea de código`
 ## Bloques de código
 Para incluir un bloque con varías líneas de código, se utiliza tres comillas invertidas al inicio y al final
 
-````
+```
+```
 git add .
 git commit -u "mensaje"
 git push
 ```
-
+```
 
 ## Referencias Bibliográficas
 1. “Sintaxis de Escritura Y Formato Básicos - Documentación de GitHub.” GitHub Docs, 2025, docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. 
