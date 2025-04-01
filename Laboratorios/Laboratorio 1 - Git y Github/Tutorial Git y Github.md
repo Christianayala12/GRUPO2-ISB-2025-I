@@ -72,7 +72,7 @@ git branch nombre-de-la-rama
 ```bash
 git checkout nombre-de-la-rama
 ```
-###Pero para crear y cambiar a una nueva rama, es>
+###Pero para crear y cambiar a una nueva rama, es:
 ```bash
 git checkout -b nueva-rama
 ```
