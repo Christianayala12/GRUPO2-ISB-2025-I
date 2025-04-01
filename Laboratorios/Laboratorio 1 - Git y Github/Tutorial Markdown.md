@@ -92,8 +92,8 @@ Para incluir un bloque con varías líneas de código, se utiliza tres comillas 
 
 ```
 git add .
-git commit -u "mensaje"
-git push
+git commit -m "mensaje"
+git push -u origin master
 
 ```
 
