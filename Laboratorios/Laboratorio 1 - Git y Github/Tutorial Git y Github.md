@@ -1,3 +1,13 @@
+# ¿Qué es Git y qué es GitHub?
+
+Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos.
+En cambio, GitHub es una plataforma basada en la nube donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código. Además, te permite hacer:
+
+- Presentar o compartir el trabajo.
+- Seguir y administrar los cambios en el código a lo largo del tiempo.
+- Colaborar en un proyecto compartido.
+
+
 # Comandos Básicos de Git
 
 Git es un sistema de control de versiones distribuido que te permite gestionar el historial de versiones de tu proyecto. Aquí dejamos una lista de comandos que usaremos para el manejo de datos:
