@@ -72,7 +72,7 @@ git branch nombre-de-la-rama
 ```bash
 git checkout nombre-de-la-rama
 ```
-Pero para crear y cambiar a una nueva rama, es>
+###Pero para crear y cambiar a una nueva rama, es>
 ```bash
 git checkout -b nueva-rama
 ```
@@ -107,9 +107,17 @@ git diff
 git checkout -- archivo.txt 
 ```
 
+## 17. Deshace el último commit, pero mantiene los cambios
+```bash
+git reset --soft HEAD~1
+```
 
-git reset --soft HEAD~1  # Deshace el último commit, pero mantiene los cambios
+## 18. Elimina un archivo del repositorio y del sistema de archivos
+```bash
+git rm archivo.txt
+```
 
-git rm archivo.txt  # Elimina un archivo del repositorio y del sistema de archivos
-
-git blame archivo.txt  # Muestra quién fue el autor de cada línea de un archivo, esto puede ser importante para detectar los cambios
+## 19. Muestra quién fue el autor de cada línea de un archivo, esto puede ser importante para detectar los cambios
+```bash
+git blame archivo.txt
+```
