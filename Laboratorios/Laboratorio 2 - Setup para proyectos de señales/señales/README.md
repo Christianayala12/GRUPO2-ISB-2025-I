@@ -4,5 +4,6 @@ Para instalar Python en su version 3.13.2 hacer [click aqui](https://www.python.
 Para los casos en los que se tenia una version antigua, verificar en terminal con:
 ```
 python --version
+```
 
 
