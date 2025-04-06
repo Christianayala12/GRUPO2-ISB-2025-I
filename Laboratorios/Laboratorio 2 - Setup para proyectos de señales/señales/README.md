@@ -14,5 +14,31 @@ Si no esta actualizado debera seguir los siguientes pasos:
 6. Luego seleccionar Nuevo y escribir la ruta del directorio en el que se encuentra Python313 y borrar las otras versiones
 7. Seleccionar aceptar
 ![Capturagit](https://github.com/user-attachments/assets/c2ee7f3d-b685-4d39-ba82-0aba2dfba525)
-
-
+## Instalar Python en su ultima version (MacOS)
+Para instalar Python en su version 3.13.2 hacer [click aqui](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe)
+Para los casos en los que se tenia una version antigua, verificar en terminal con:
+```
+python --version
+```
+En la terminal verificar si esta instalado la ultima version de python:
+```
+which python
+```
+Deberia imprimir lo siguiente:
+```
+/Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13
+```
+De ser asi en la terminal copiar el siguiente codigo:
+```
+nano ~/.zshrc
+```
+Luego escribir el siguiente codigo:
+```
+exit()
+```
+Finalmente copiar el siguiente codigo en terminal y deberia salir la version actualizada de python:
+```
+nano ~/.zshrc
+source ~/.zshrc
+python3 —version
+```
