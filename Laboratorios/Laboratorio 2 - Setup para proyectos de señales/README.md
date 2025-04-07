@@ -49,10 +49,28 @@ python3 —version
 Un entorno virtual es útil porque permite el aislamiento de proyectos, asegurando que cada uno tenga sus **propias dependencias** sin interferir con otros. Además, mantiene limpio el sistema **evitando conflictos** con paquetes instalados globalmente.
 
 ### Pasos para la creación desde del cmd
-1. Abrir el **cmd** en la ruta donde se desea crear el entorno virtual, en nuestro caso dentro de Lboratorio 2.
-2. Crear el entorno virtual con el comando `python -m venv mi_entorno` .
-3. Para activar el entorno virtual, se utiliza `Nombre\Scripts\activate`
-4. Con el comando `python -m pip list`, se pueden observar las librerías instaladas.
-5. Con el comando `pip install nombre_librería`, se instalan nuevas librerías
-6. Para el ejercicio de laboratorio se utilizo la librería Neurokit2: `pip install neurokit2`
+1. **Abrir el CMD** en la ruta donde deseas crear el entorno virtual, en nuestro caso dentro de *Laboratorio 2*.  
+2. **Crear el entorno virtual** con el comando:
+```
+python -m venv mi_entorno
+```
+3. **Activar el entorno virtual** con:
+```
+Nombre\Scripts\activate
+```
+4. **Ver las librerías instaladas** con:
+```
+python -m pip list
+```
+5. **Instalar nuevas librerías** con:
+```
+pip install nombre_librería
+```
+6.  Para el ejercicio de laboratorio, **instalar la librería NeuroKit2**:
+```
+pip install neurokit2
+```
+7. En caso se desee desactivar el entorno virtual
+```
+
 
