@@ -44,3 +44,15 @@ nano ~/.zshrc
 source ~/.zshrc
 python3 —version
 ```
+
+## Creación del entorno virtual
+Un entorno virtual es útil porque permite el aislamiento de proyectos, asegurando que cada uno tenga sus **propias dependencias** sin interferir con otros. Además, mantiene limpio el sistema **evitando conflictos** con paquetes instalados globalmente.
+
+### Pasos para la creación desde del cmd
+1. Abrir el **cmd** en la ruta donde se desea crear el entorno virtual, en nuestro caso dentro de Lboratorio 2.
+2. Crear el entorno virtual con el comando `python -m venv mi_entorno` .
+3. Para activar el entorno virtual, se utiliza `Nombre\Scripts\activate`
+4. Con el comando `python -m pip list`, se pueden observar las librerías instaladas.
+5. Con el comando `pip install nombre_librería`, se instalan nuevas librerías
+6. Para el ejercicio de laboratorio se utilizo la librería Neurokit2: `pip install neurokit2`
+
