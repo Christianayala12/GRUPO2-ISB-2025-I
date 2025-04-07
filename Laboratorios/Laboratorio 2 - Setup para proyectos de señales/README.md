@@ -73,7 +73,7 @@ pip install neurokit2
 ![Imagen1](IMG/IMG1.jpeg)
 
 ### Ploteo de señales EMG y ECG
-NeuroKit ofrece funciones para procesar señales de ECG, RSP, EDA y EMG. Se crearon dos archivos `.ipynb` uno para cada tipo de señal solicitada. La documentación para generar las señales se encuentra en el siguiente enlace [Simulate Artificial Physiological]([https://sites.google.com/view/isbcurso/home](https://neuropsychology.github.io/NeuroKit/examples/signal_simulation/signal_simulation.html)).
+NeuroKit ofrece funciones para procesar señales de ECG, RSP, EDA y EMG. Se crearon dos archivos `.ipynb` uno para cada tipo de señal solicitada. La documentación para generar las señales se encuentra en el siguiente enlace [Simulate Artificial Physiological](https://neuropsychology.github.io/NeuroKit/examples/signal_simulation/signal_simulation.html).
 
 #### [Señal EMG](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%202%20-%20Setup%20para%20proyectos%20de%20se%C3%B1ales/entorno_grupito/EMG.ipynb)
 1. **Cargar las librerías necesarias: ** Se importa **NeuroKit2** (para generar señales fisiológicas), **NumPy** y **Pandas** (para manejar datos) y **Seaborn** (para la visualización de gráficos).
