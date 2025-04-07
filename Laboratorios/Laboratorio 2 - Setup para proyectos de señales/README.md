@@ -70,3 +70,4 @@ pip install nombre_librería
 ```
 pip install neurokit2
 ```
+![Imagen1](IMG/IMG1.jpeg)
