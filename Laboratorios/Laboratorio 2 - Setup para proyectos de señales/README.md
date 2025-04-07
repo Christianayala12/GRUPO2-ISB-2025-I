@@ -82,7 +82,7 @@ NeuroKit ofrece funciones para procesar señales de ECG, RSP, EDA y EMG. Se crea
 4. **Visualización de las señales EMG:** Las señales generadas se visualizan utilizando la función `nk.signal_plot()`.
 ![Imagen3](IMG/IMG3.jpeg)
 
-#### [Señal ECG]([https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%202%20-%20Setup%20para%20proyectos%20de%20se%C3%B1ales/entorno_grupito/EMG.ipynb](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%202%20-%20Setup%20para%20proyectos%20de%20se%C3%B1ales/entorno_grupito/ECG.ipynb))
+#### [Señal ECG](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%202%20-%20Setup%20para%20proyectos%20de%20se%C3%B1ales/entorno_grupito/EMG.ipynb](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%202%20-%20Setup%20para%20proyectos%20de%20se%C3%B1ales/entorno_grupito/ECG.ipynb)
 1. **Cargar las librerías necesarias:** Se importa **NeuroKit2** (para generar señales fisiológicas), **NumPy** y **Pandas** (para manejar datos) y **Seaborn** (para la visualización de gráficos).
 2. **Simulación de señales ECG:** Se generan cuatro señales ECG con diferentes configuraciones de frecuencia cardíaca y ruido. Se simulan dos frecuencias cardíacas (180 y 30 latidos por minuto) y se usan tres métodos de simulación ***(simple, ecgsyn, y el método predeterminado) para cada una.***
 ![Imagen4](IMG/IMG4.jpeg)
