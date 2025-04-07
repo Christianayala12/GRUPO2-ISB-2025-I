@@ -70,7 +70,3 @@ pip install nombre_librería
 ```
 pip install neurokit2
 ```
-7. En caso se desee desactivar el entorno virtual
-```
-
-
