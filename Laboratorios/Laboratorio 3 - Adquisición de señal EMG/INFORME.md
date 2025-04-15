@@ -67,7 +67,19 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 
  ## 4. Resultados y limitaciones: <a name="n4"></a>
 
- ### Sujeto 1
+   ### Sujeto 1
+   #### Biceps Branchii
+
+
+   #### Trapecio
+
+   Como se puede observar en las imágenes, en la primera no hubo cambios significativos en el voltaje. Esto se debe a que, al estar en reposo, no hay actividad de las unidades motoras, por lo que no se generan potenciales de acción que desencadenen la contracción muscular. Aunque se aprecia una ligera amplitud, esta puede atribuirse a pequeños esfuerzos involuntarios o al ruido generado por la impedancia entre el electrodo y la piel.
+   
+   En cambio, en las imágenes 2 y 3 se observan picos de voltaje considerablemente más altos, lo cual indica la presencia de potenciales generados por la activación de unidades motoras durante los movimientos realizados. Además, se puede notar cierta coherencia en los picos, reflejando que el esfuerzo durante los movimientos no fue constante. Las caídas de amplitud observadas corresponden a los periodos de relajación que se realizaron de forma intermitente.
+   
+   Además, resulta interesante comparar los picos máximos entre los dos movimientos activos. En el tercer caso, al existir una fuerza opuesta contra la cual ejercer presión, el músculo pudo generar una mayor fuerza, lo que se traduce en picos de mayor amplitud. En contraste, en el primer movimiento activo (elevación de hombros sin resistencia), el esfuerzo alcanzó un límite determinado únicamente por el rango de movimiento, lo que explica los picos de menor amplitud en esa condición.
+
+   Finalmente, en la parte de limitaciones respecto a este músculo queremos mencionar tanto la falta de tiempo para realziar 3 registros por movimiento, la falta de electrodos en general, por lo que tuvimos que reutilizar el que se uso para el biceps, generando un gasto del electrodo como tal que podría terminar afectando en su impedancia respecto a la señal y recalcar como el sujeto 1 no tuvo un correcto guardado de datos, dejando la señal en un estado para filtrar, por lo que se pudo haber perdido data que de otra manera hubiera sido más eficaz. Además, nos hubiera gustado realizar otro movimiento opuesto, debido a que es preocupante la cercanía entre la fuerza opuesta y los electrodos
 
  ### Sujeto 2
 
