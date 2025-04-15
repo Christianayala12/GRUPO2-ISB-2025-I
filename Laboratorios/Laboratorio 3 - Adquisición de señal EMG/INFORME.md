@@ -19,8 +19,7 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
  ## 4. Resultados y limitaciones: <a name="n4"></a>
 
  ## 5. Referencias bibliográficas: <a name="n5"></a>
-
-
-
-
+ [1] Gisbert JA. Electromiografía clínica. 2ª ed. Madrid: Editorial Médica Panamericana; 2006.  
+ [2] Tercedor Sánchez LG. Electrocardiografía clínica: fundamentos y aplicaciones. Madrid: Díaz de Santos; 2018
+ [3] Silva H, Lourenço P, Fred A. OpenSignals: A Modular Software Tool for Biomedical Signal Acquisition and Processing. In: 2014 IEEE International Symposium on Medical Measurements and Applications (MeMeA); 2014 May 30-31; Lisbon, Portugal. 
 
