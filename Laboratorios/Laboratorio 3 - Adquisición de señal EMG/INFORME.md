@@ -76,7 +76,7 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 
    |                | Toma 1                  | Toma 2                  | Toma 3                  |
 |----------------|------------------------------|------------------------------|------------------------------|
-| Reposo         | ![](imgs/reposo1.png)        | ![](imgs/reposo2.png)        | ![](imgs/reposo3.png)        |
+| Reposo         | ![](Imagenes_ploteadas/Biceps/REPOSO1_h5.png)        | ![](imgs/reposo2.png)        | ![](imgs/reposo3.png)        |
 | Contracción    | ![](imgs/contraccion1.png)   | ![](imgs/contraccion2.png)   | ![](imgs/contraccion3.png)   |
 | Con resistencia| ![](imgs/resistencia1.png)   | ![](imgs/resistencia2.png)   | ![](imgs/resistencia3.png)   |
 
