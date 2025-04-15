@@ -42,17 +42,17 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 
  **Sujeto 1**
   1. Músculo fusiforme del antebrazo  
-     ![Antebrazo](Imagenes-L3/IM8.png)  
+     ![Antebrazo](Imagenes-L3/IM8.png)   
      Se colocan los electrodos positivo y negativo a lo largo del centro de la fibra muscular y el electrodo de referencia en el hueso del codo. Se tomaron medidas en reposo, durante ejercicios de extensión y flexión de la muñeca (4).
 
  **Sujeto 2**
   1. Trapecio Superior  
-     ![Trapecio](Imagenes-L3/IM9.png)
+     ![Trapecio](Imagenes-L3/IM9.png)  
      Se colocan los electrodos positivo y negativo a lo largo del centro superior de la fibra muscular y el electrodo de referencia en la apófisis mastoides (detrás de la oreja) (5).
      
   3.  Bíceps brachii
-    ![Biceps](Imagenes-L3/IM10.png)
-     Se colocan los electrodos positivo y negativo a lo largo del centro del músculo y el electrodo de referencia en el hueso del codo (3). 
+    ![Biceps](Imagenes-L3/IM10.png)  
+     Se colocan los electrodos positivo y negativo a lo largo del centro del músculo y el electrodo de referencia en el hueso del codo (6). 
    
 
    
