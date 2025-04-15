@@ -19,12 +19,12 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
  ### Materiales
  | Descripción                                   | Cantidad | Imagen                          |
 |----------------------------------------------|----------|---------------------------------|
-| Batería 3.7V                                  | 2        | ![Batería](https://via.placeholder.com/80) |
-| OpenSignals - PLUX Wireless Biosignals SA    | 2        | ![OpenSignals](https://via.placeholder.com/80) |
-| Electrodos descartables tipo disco           | 6        | ![Electrodos](https://via.placeholder.com/80) |
-| Cable de 3 electrodos sensor Ag/AgCl         | 2        | ![Cable](https://via.placeholder.com/80) |
-| BITalino                                     | 2        | ![BITalino](https://via.placeholder.com/80) |
-| Laptop                                       | 2        | ![Laptop](https://via.placeholder.com/80) |
+| Batería 3.7V                                  | 2        | ![Batería](Imagenes-L3/IM1.jpg) |
+| OpenSignals - PLUX Wireless Biosignals SA    | 2        | ![OpenSignals](Imagenes-L3/IM2.png) |
+| Electrodos descartables tipo disco           | 6        | ![Electrodos](Imagenes-L3/IM3.png) |
+| Cable de 3 electrodos sensor Ag/AgCl         | 2        | ![Cable](Imagenes-L3/IM4.png) |
+| BITalino                                     | 2        | ![BITalino](Imagenes-L3/IM5.png) |
+| Laptop                                       | 2        | ![Laptop](Imagenes-L3/IM6.png) |
 
  ## 4. Resultados y limitaciones: <a name="n4"></a>
 
