@@ -77,9 +77,8 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
    |                | Toma 1                  | Toma 2                  | Toma 3                  |
 |----------------|------------------------------|------------------------------|------------------------------|
 | Reposo         | ![](Imagenes_ploteadas/Biceps/REPOSO1_h5.png)    | ![](Imagenes_ploteadas/Biceps/REPOSO2_h5.png)        | ![](Imagenes_ploteadas/Biceps/REPOSO3_h5.png)        |
-| Contracción    | ![](imgs/contraccion1.png)   | ![](imgs/contraccion2.png)   | ![](imgs/contraccion3.png)   |
-| Con resistencia| ![](imgs/resistencia1.png)   | ![](imgs/resistencia2.png)   | ![](imgs/resistencia3.png)   |
-
+| Contracción    | ![](Imagenes_ploteadas/Biceps/MOV2.1_neurokit.png)   | ![](Imagenes_ploteadas/Biceps/MOV2.2_neurokit.png)   | ![](Imagenes_ploteadas/Biceps/MOV2.3_neurokit.png)   |
+| Con resistencia| ![](Imagenes_ploteadas/Biceps/FUERZA3.1_neurokit.png)   | ![](Imagenes_ploteadas/Biceps/FUERZA3.2_neurokit.png)   | ![](Imagenes_ploteadas/Biceps/FUERZA3.3_neurokit.png)   |
 
    En la primera imagen, se observa una señal EMG con amplitud relativamente constante y baja (entre los 500 uV) sin picos aparentes. Esto es debido a que existe una ausencia de actividad muscular, o en otras palabras, el músculo no está haciendo ningún esfuerzo y se encuentra en reposo.
 
@@ -91,6 +90,12 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 
 
    #### Trapecio
+
+   |                | Toma 1                  | Toma 2                  | Toma 3                  |
+|----------------|------------------------------|------------------------------|------------------------------|
+| Reposo         | ![](Imagenes_ploteadas/Trapecio/2DO_REP1.png)    | ![](Imagenes_ploteadas/Trapecio/2DO_REP2.png)        | ![]()        |
+| Contracción    | ![](Imagenes_ploteadas/Trapecio/2DO_MOV1.png)   | ![](Imagenes_ploteadas/Trapecio/2DO_MOV2.png)   | ![](Imagenes_ploteadas/Trapecio/2DO_MOV3.png)   |
+| Con resistencia| ![](Imagenes_ploteadas/Trapecio/3ER_MOV1.png)   | ![](Imagenes_ploteadas/Trapecio/3ER_MOV2.png)   | ![]()   |
 
    Como se puede observar en las imágenes, en la primera no hubo cambios significativos en el voltaje. Esto se debe a que, al estar en reposo, no hay actividad de las unidades motoras, por lo que no se generan potenciales de acción que desencadenen la contracción muscular. Aunque se aprecia una ligera amplitud, esta puede atribuirse a pequeños esfuerzos involuntarios o al ruido generado por la impedancia entre el electrodo y la piel.
    
