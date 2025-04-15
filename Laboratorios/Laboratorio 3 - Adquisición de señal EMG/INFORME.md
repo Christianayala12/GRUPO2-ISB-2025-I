@@ -83,7 +83,9 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 
    En la tercera imagen, además de apretar la pelota, el sujeto flexionó la muñeca hacia arriba con cada contracción. Se puede observar el patrón de movimiento constante tanto la señal cruda como limpia. El patrón de la señal EMG, tanto cruda como limpia, muestra una actividad constante, pero los picos de activación muscular son más irregulares y de menor amplitud comparados con la condición anterior. Esto puede indicar que el esfuerzo está distribuido entre varios grupos musculares.
 
-   En la cuarta imagen, el sujeto aprieta la pelota y extiende la muñeca con cada contracción. Al igual que en el caso anterior, el patrón de señal es constante, pero con picos menos definidos y de amplitud aún menor. Esto sugiere que hay una menor participación del músculo fusiforme o que la activación es más compleja, posiblemente por la participación de músculos estabilizadores.
+   En la cuarta imagen, el sujeto aprieta la pelota y extiende la muñeca con cada contracción. Al igual que en el caso anterior, el patrón de señal es constante, pero con picos menos definidos y de amplitud aún menor. Esto sugiere que hay una menor participación del músculo fusiforme o que la activación es más compleja, posiblemente por la participación de músculos estabilizadores.  
+
+   La señal EMG mostró mayor activación del músculo fusiforme al apretar una pelota sin mover la muñeca, en comparación con los movimientos que incluyeron flexión o extensión, los cuales generaron señales más irregulares y de menor amplitud. Esto sugiere un esfuerzo muscular más complejo al involucrar otros músculos. 
 
 
    ### Sujeto 2
