@@ -48,11 +48,14 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
  **Sujeto 2**
   1. Trapecio Superior  
      ![Trapecio](Imagenes-L3/IM9.png)  
+
      Se colocan los electrodos positivo y negativo a lo largo del centro superior de la fibra muscular y el electrodo de referencia en la apófisis mastoides (detrás de la oreja) (5).
      
-  3.  Bíceps brachii
-    ![Biceps](Imagenes-L3/IM10.png)  
-     Se colocan los electrodos positivo y negativo a lo largo del centro del músculo y el electrodo de referencia en el hueso del codo (6). 
+  2.  Bíceps brachii
+    
+       ![Biceps](Imagenes-L3/IM10.png)  
+
+      Se colocan los electrodos positivo y negativo a lo largo del centro del músculo y el electrodo de referencia en el hueso del codo (6). 
    
 
    
