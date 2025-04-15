@@ -19,7 +19,7 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
  ### Materiales
  | Descripción                                   | Cantidad | Imagen                          |
 |----------------------------------------------|----------|---------------------------------|
-| Batería 3.7V                                  | 2        | ![Batería](Imagenes-L3/IM1.jpg) |
+| Batería 3.7V                                  | 2        | ![Batería](Imagenes-L3/IM0.png) |
 | OpenSignals - PLUX Wireless Biosignals SA    | 2        | ![OpenSignals](Imagenes-L3/IM2.png) |
 | Electrodos descartables tipo disco           | 6        | ![Electrodos](Imagenes-L3/IM3.png) |
 | Cable de 3 electrodos sensor Ag/AgCl         | 2        | ![Cable](Imagenes-L3/IM4.png) |
