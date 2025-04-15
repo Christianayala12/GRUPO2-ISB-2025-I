@@ -64,6 +64,10 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 
  ## 4. Resultados y limitaciones: <a name="n4"></a>
 
+ # Sujeto 1
+
+ # Sujeto 2
+
  ## 5. Referencias bibliográficas: <a name="n5"></a>
  [1] Gisbert JA. Electromiografía clínica. 2ª ed. Madrid: Editorial Médica Panamericana; 2006.  
  [2] Tercedor Sánchez LG. Electrocardiografía clínica: fundamentos y aplicaciones. Madrid: Díaz de Santos; 2018  
