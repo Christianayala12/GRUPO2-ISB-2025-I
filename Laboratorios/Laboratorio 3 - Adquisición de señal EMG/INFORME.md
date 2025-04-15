@@ -69,6 +69,13 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 
    ### Sujeto 1
    #### Músculo fusiforme del antebrazo
+   
+   |                | Toma 1                  | Toma 2                  | Toma 3                  |
+|----------------|------------------------------|------------------------------|------------------------------|
+| Reposo         | ![](Imagenes_ploteadas/Antebrazo/reposo1_emg_plot.png)    | ![](Imagenes_ploteadas/Antebrazo/reposo2_emg_plot.png)        | ![](Imagenes_ploteadas/Antebrazo/reposo3_emg_plot.png)        |
+| Apretar pelota    | ![](Imagenes_ploteadas/Antebrazo/apretar_pelota1_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/apretar_pelota2_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/apretar_pelota3_emg_plot.png)   |
+| Pulsos hacia arriba| ![](Imagenes_ploteadas/Antebrazo/flexion_arriba1_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_arriba2_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_arriba3_emg_plot.png)   |
+| Pulsos hacia abajo| ![](Imagenes_ploteadas/Antebrazo/flexion_abajo1_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_abajo2_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_abajo3_emg_plot.png)   |
 
 
    ### Sujeto 2
@@ -94,7 +101,7 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
    |                | Toma 1                  | Toma 2                  | Toma 3                  |
 |----------------|------------------------------|------------------------------|------------------------------|
 | Reposo         | ![](Imagenes_ploteadas/Trapecio/2DO_REP1.png)    | ![](Imagenes_ploteadas/Trapecio/2DO_REP2.png)        | ![]()        |
-| Contracción    | ![](Imagenes_ploteadas/Trapecio/2DO_MOV1.png)   | ![](Imagenes_ploteadas/Trapecio/2DO_MOV2.png)   | ![](Imagenes_ploteadas/Trapecio/2DO_MOV3.png)   |
+| Rotación de hombros    | ![](Imagenes_ploteadas/Trapecio/2DO_MOV1.png)   | ![](Imagenes_ploteadas/Trapecio/2DO_MOV2.png)   | ![](Imagenes_ploteadas/Trapecio/2DO_MOV3.png)   |
 | Con resistencia| ![](Imagenes_ploteadas/Trapecio/3ER_MOV1.png)   | ![](Imagenes_ploteadas/Trapecio/3ER_MOV2.png)   | ![]()   |
 
    Como se puede observar en las imágenes, en la primera no hubo cambios significativos en el voltaje. Esto se debe a que, al estar en reposo, no hay actividad de las unidades motoras, por lo que no se generan potenciales de acción que desencadenen la contracción muscular. Aunque se aprecia una ligera amplitud, esta puede atribuirse a pequeños esfuerzos involuntarios o al ruido generado por la impedancia entre el electrodo y la piel.
