@@ -37,7 +37,7 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
  3. Se conecta el sensor AG/AgCl de 3 electrodos al puerto indicado para EMG (Electromiograma)
 
 
- #### **Colocación de elctrodos**
+ #### **Colocación de electrodos**
  Se evaluaron 4 músculos en el estudio de señales. 
 
  **Sujeto 1**
@@ -68,7 +68,26 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
  ## 4. Resultados y limitaciones: <a name="n4"></a>
 
    ### Sujeto 1
+   #### Músculo fusiforme del antebrazo
+
+
+   ### Sujeto 2
    #### Biceps Branchii
+
+   |                | Toma 1                  | Toma 2                  | Toma 3                  |
+|----------------|------------------------------|------------------------------|------------------------------|
+| Reposo         | ![](imgs/reposo1.png)        | ![](imgs/reposo2.png)        | ![](imgs/reposo3.png)        |
+| Contracción    | ![](imgs/contraccion1.png)   | ![](imgs/contraccion2.png)   | ![](imgs/contraccion3.png)   |
+| Con resistencia| ![](imgs/resistencia1.png)   | ![](imgs/resistencia2.png)   | ![](imgs/resistencia3.png)   |
+
+
+   En la primera imagen, se observa una señal EMG con amplitud relativamente constante y baja (entre los 500 uV) sin picos aparentes. Esto es debido a que existe una ausencia de actividad muscular, o en otras palabras, el músculo no está haciendo ningún esfuerzo y se encuentra en reposo.
+
+   En la segunda imagen, hubo una activación muscular de flexión del codo, pero que empezó progresivamente, por lo que en los primeros segundos la amplitud es mínima, hasta que aparecen los primeros picos. Se puede observar que hay picos de mayor intensidad que otros, por lo que se puede decir que la fuerza del músculo no fue continua.
+
+   La tercera imagen corresponde a una activación muscular contra resistencia. En esta imagen se observa que los picos son mucho mayores que las dos imágenes anteriores (llegando a 12500 de amplitud a comparación de 2500 de la segunda imagen). Además, la señal se mantiene con una amplitud elevada de manera más constante durante un periodo mayor de tiempo. Este comportamiento podría explicarse por la necesidad de aplicar una fuerza mucho mayor para vencer a la resistencia externa aplicada, lo que implica una mayor activación de unidades motoras.
+
+   Finalmente, en cuanto a las limitaciones, durante la ejecución del movimiento de flexión del codo, el antebrazo entró en contacto con los electrodos colocados sobre el músculo del bíceps, lo que pudo haber generado ruido. Además, el ejercicio no fue realizado en una superficie plana ya que el electrodo neutro estaba ubicado en el codo, lo que provocó que los movimientos se realizaran técnicamente en el aire y con poca estabilidad.
 
 
    #### Trapecio
@@ -80,8 +99,7 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
    Además, resulta interesante comparar los picos máximos entre los dos movimientos activos. En el tercer caso, al existir una fuerza opuesta contra la cual ejercer presión, el músculo pudo generar una mayor fuerza, lo que se traduce en picos de mayor amplitud. En contraste, en el primer movimiento activo (elevación de hombros sin resistencia), el esfuerzo alcanzó un límite determinado únicamente por el rango de movimiento, lo que explica los picos de menor amplitud en esa condición.
 
    Finalmente, en la parte de limitaciones respecto a este músculo queremos mencionar tanto la falta de tiempo para realziar 3 registros por movimiento, la falta de electrodos en general, por lo que tuvimos que reutilizar el que se uso para el biceps, generando un gasto del electrodo como tal que podría terminar afectando en su impedancia respecto a la señal y recalcar como el sujeto 1 no tuvo un correcto guardado de datos, dejando la señal en un estado para filtrar, por lo que se pudo haber perdido data que de otra manera hubiera sido más eficaz. Además, nos hubiera gustado realizar otro movimiento opuesto, debido a que es preocupante la cercanía entre la fuerza opuesta y los electrodos
-
- ### Sujeto 2
+   
 
  ## 5. Referencias bibliográficas: <a name="n5"></a>
  [1] Gisbert JA. Electromiografía clínica. 2ª ed. Madrid: Editorial Médica Panamericana; 2006.  
