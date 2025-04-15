@@ -77,6 +77,14 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
 | Pulsos hacia arriba| ![](Imagenes_ploteadas/Antebrazo/flexion_arriba1_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_arriba2_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_arriba3_emg_plot.png)   |
 | Pulsos hacia abajo| ![](Imagenes_ploteadas/Antebrazo/flexion_abajo1_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_abajo2_emg_plot.png)   | ![](Imagenes_ploteadas/Antebrazo/flexion_abajo3_emg_plot.png)   |
 
+   La primera gráfica muestra una señal EMG del músculo fusiforme del antebrazo en estado de reposo. Se observa una actividad eléctrica de baja amplitud, contenida entre los 400 y 600 microvoltios (µV), lo cual es característico de una señal en reposo, donde no hay contracción muscular voluntaria. Se presentan pequeñas oscilaciones que pueden corresponder a ruido de fondo, pero sin la presencia de algún pico significativo.
+
+   En la segunda imagen, el sujeto realizó el movimiento repetitivo de simular apretar una pelota sin flexionar o extender la muñeca. La señal cruda presenta picos claros y repetitivos que corresponden a la activación muscular durante cada contracción y la señal limpia mantiene la forma periódica que refleja el patrón del movimiento realizado. En la sección de activación muscular, se observa un incremento de la amplitud entre 5000 y 9000, indicando una fuerte contracción voluntaria del músculo durante toda la toma.
+
+   En la tercera imagen, además de apretar la pelota, el sujeto flexionó la muñeca hacia arriba con cada contracción. Se puede observar el patrón de movimiento constante tanto la señal cruda como limpia. El patrón de la señal EMG, tanto cruda como limpia, muestra una actividad constante, pero los picos de activación muscular son más irregulares y de menor amplitud comparados con la condición anterior. Esto puede indicar que el esfuerzo está distribuido entre varios grupos musculares.
+
+   En la cuarta imagen, el sujeto aprieta la pelota y extiende la muñeca con cada contracción. Al igual que en el caso anterior, el patrón de señal es constante, pero con picos menos definidos y de amplitud aún menor. Esto sugiere que hay una menor participación del músculo fusiforme o que la activación es más compleja, posiblemente por la participación de músculos estabilizadores.
+
 
    ### Sujeto 2
    #### Biceps Branchii
