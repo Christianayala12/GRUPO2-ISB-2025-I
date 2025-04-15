@@ -119,6 +119,23 @@ Durante la presente práctica, se empleará BITalino en conjunto con el software
    Además, resulta interesante comparar los picos máximos entre los dos movimientos activos. En el tercer caso, al existir una fuerza opuesta contra la cual ejercer presión, el músculo pudo generar una mayor fuerza, lo que se traduce en picos de mayor amplitud. En contraste, en el primer movimiento activo (elevación de hombros sin resistencia), el esfuerzo alcanzó un límite determinado únicamente por el rango de movimiento, lo que explica los picos de menor amplitud en esa condición.
 
    Finalmente, en la parte de limitaciones respecto a este músculo queremos mencionar tanto la falta de tiempo para realziar 3 registros por movimiento, la falta de electrodos en general, por lo que tuvimos que reutilizar el que se uso para el biceps, generando un gasto del electrodo como tal que podría terminar afectando en su impedancia respecto a la señal y recalcar como el sujeto 1 no tuvo un correcto guardado de datos, dejando la señal en un estado para filtrar, por lo que se pudo haber perdido data que de otra manera hubiera sido más eficaz. Además, nos hubiera gustado realizar otro movimiento opuesto, debido a que es preocupante la cercanía entre la fuerza opuesta y los electrodos
+
+   ### Videos 
+
+   [Video 1](Videos/1er_mov.mp4)
+   
+   [Video 2](Videos/2do_mov.mp4)
+   
+   [Video 3](Videos/andy_electrodos.mp4)
+   
+   [Video 4](Videos/colocacion_electrodos.mp4)
+   
+   [Video 5](Videos/reposo_trapecio.mp4)
+   
+   [Video 6](Videos/trapecio_1.mp4)
+   
+   [Video 7](Videos/trapecio_ultimo.mp4)
+
    
 
  ## 5. Referencias bibliográficas: <a name="n5"></a>
