@@ -60,11 +60,24 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
  Se mostrarán 3 imágenes por actividad, donde se visualizan las derivadas I, II, III en ese orden  para luego hacer un breve análisis de cada una.
 
  ### 4.1. Lectura de Línea Basal en Reposo <a name="p1"></a>
-  |                | Derivada 1                  | Derivada 2                  | Derivada 3                  |
-|----------------|------------------------------|------------------------------|------------------------------|
-| Señal cruda         | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev1.1.png) | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev2.1.png)        | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev3.1.png)        |
-| Señal procesada    | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev1.1.png)   | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev2.1.png)   | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev3.1.png)   |
-| Señal ploteada con ECG_PLOT| ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev1.1.png)   | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev2.1.png)   | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev3.1.png)   |
+  | Derivada | Señal cruda |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev1.1.png) |
+| **II** | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev2.1.png) |
+| **III** | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev3.1.png) |
+
+| Derivada | Señal procesada |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev1.1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev2.1.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev3.1.png) |
+
+| Derivada | Señal ploteada con `ecg_plot()` |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev1.1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev2.1.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev3.1.png) |
+
 
  ### 4.2. Respiración Controlada con Reposo <a name="p2"></a>
  Texto
