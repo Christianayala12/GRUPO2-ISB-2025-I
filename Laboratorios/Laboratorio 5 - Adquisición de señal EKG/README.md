@@ -28,7 +28,7 @@ El electrocardiograma o electrocardiografía es una prueba donde se ve el seguim
 </div>
 
 Cabe mencionar que estas ondas y su forma dependen mucho del modo de conexión de los electrodos (las derivaciones), por lo que esas variaciones nos dan la posibilidad de entender el funcionamiento del corazón de mejor manera. Además, cada onda nos puede dar datos a través de su forma, pero también es importante ver la amplitud de cada una y su duración, pues estos datos también son útiles para futuros diagnósticos.  
-Por último mencionar que las **enfermedades** que podemos diagnosticar con el ECG son (3):
+Por último, mencionar que las **enfermedades** que podemos diagnosticar con el ECG son (3):
 - Arritmias
 - Cardiomiopatía
 - Enfermedad de las arterias coronarias
