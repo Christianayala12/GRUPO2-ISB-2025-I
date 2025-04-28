@@ -15,7 +15,7 @@
  ## 1. Introducción <a name="n1"></a>
 
  ### **¿Qué es un electrocardiograma (ECG)?**
-El electrocardiograma o electrocardiografía es una prueba donde se ve el seguimiento eléctrico del corazón de manera no invasiva, indolora y simple. Esté concepto funciona gracias a los principios anatómicos del corazón (1), que cuenta con una células marcapasos en su nódulo SA y AV que marcan el ritmo cardíaco (en general usamos el más rápido, que en una persona sin problemas cardiacos es el SA). A partir de este contexto, el ploteo que se termina viendo en el electrocardiograma consta de unas ondas particulares ya reconocidas que nos dan datos de cómo está trabajando el corazón en general.
+El electrocardiograma o electrocardiografía es una prueba donde se ve el seguimiento eléctrico del corazón de manera no invasiva, indolora y simple. Esté concepto funciona gracias a los principios anatómicos del corazón, que cuenta con una células marcapasos en su nódulo SA y AV que marcan el ritmo cardíaco (en general usamos el más rápido, que en una persona sin problemas cardiacos es el SA) (1). A partir de este contexto, el ploteo que se termina viendo en el electrocardiograma consta de unas ondas particulares ya reconocidas que nos dan datos de cómo está trabajando el corazón en general.
 
 ### **Ondas del electrocardiograma**
 - **Onda P:** Es la primera onda que visualizamos y tiene una duración entre 0.12 a 0.22 segundos (incluyendo un pequeño segmento antes de la siguiente onda) (2). Está onda representa la despolarización de la aurícula y  la primera mitad representa la despolarización de la aurícula derecha mientras que la segunda mitad representa la despolarización de la aurícula izquierda (1).
@@ -24,7 +24,7 @@ El electrocardiograma o electrocardiografía es una prueba donde se ve el seguim
 
 <div align="center">
   <img src="./Imagenes_L5/IMG_INFORME/IMG1.png" alt="Ondas del Electrocardiograma" width="60%">
-  <p><strong>Figura 1:</strong> Ondas del Electrocardiograma (2).</p>
+  <p><strong>Figura 1:</strong> Ondas del Electrocardiograma (3).</p>
 </div>
 
 Cabe mencionar que estas ondas y su forma dependen mucho del modo de conexión de los electrodos (las derivaciones), por lo que esas variaciones nos dan la posibilidad de entender el funcionamiento del corazón de mejor manera. Además, cada onda nos puede dar datos a través de su forma, pero también es importante ver la amplitud de cada una y su duración, pues estos datos también son útiles para futuros diagnósticos.  
@@ -78,6 +78,8 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 | **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev2.1.png) |
 | **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev3.1.png) |
 
+Podemos observar que la frecuencia cardíaca promedio varía entre 65.5 y 70.6 bpm, valores que se encuentran dentro del rango normal para una persona en reposo (60 - 100 bpm (4)). Además, se aprecia una forma clara y definida de las ondas, sin variaciones visibles en los puntos de ploteo.
+
 
  ### 4.2. Respiración Controlada con Reposo <a name="p2"></a>
    | Derivada | Señal cruda |
@@ -98,6 +100,8 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 | **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_resp_dev2.1.png) |
 | **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_resp_dev3.1.png) |
 
+El promedio de la frecuencia cardíaca varió entre 66.9 y 67.8 bpm, manteniéndose dentro del rango normal. Sin embargo, se habría esperado una mayor variabilidad en la frecuencia cardíaca como tal (5). Lo que sí se puede apreciar es un cambio en la frecuencia cardíaca cada 10 segundos, lo cual es coherente con los ciclos de inhalación y exhalación del sujeto de prueba, reflejando un adecuado funcionamiento del sistema nervioso autónomo (5).
+
  ### 4.3. Lectura Post-Agotamiento Físico <a name="p3"></a>
    | Derivada | Señal cruda |
 |:--------:|:------:|
@@ -113,23 +117,24 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 
 | Derivada | Señal ploteada con `ecg_plot()` |
 |:--------:|:------:|
-| **I** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev1.1.png) |
-| **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev2.1.png) |
-| **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev3.1.png) |
+| **I** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev2.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev3.png) |
 
+Durante el ejercicio, la frecuencia cardíaca del sujeto varió entre 108.3 y 104 bpm, mostrando claramente cómo se adapta con el paso del tiempo y disminuye progresivamente. Además, se observa una variación en las formas de las ondas P y T, lo que indica un aumento en la amplitud durante la despolarización auricular y la repolarización ventricular, un fenómeno esperado (6).
  
  ### 4.4. Lectura Post-Apnea Prolongada <a name="p4"></a>
   | Derivada | Señal cruda |
 |:--------:|:------:|
-| **I** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev1.png) |
-| **II** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev1.png) |
-| **III** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev1.png) |
+| **I** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev1.1.png) |
+| **II** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev2.1.png) |
+| **III** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev3.1.png) |
 
 | Derivada | Señal procesada |
 |:--------:|:------:|
-| **I** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev1.png) |
-| **II** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev2.png) |
-| **III** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev3.png) |
+| **I** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev1.1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev2.1.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev3.1.png) |
 
 | Derivada | Señal ploteada con `ecg_plot()` |
 |:--------:|:------:|
@@ -137,15 +142,25 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 | **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_inhala_dev2.1.png) |
 | **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_inhala_dev3.1.png) |
 
+En este ejercicio, se observa que la frecuencia cardíaca varía entre 96 y 101 bpm, lo cual es normal considerando que el sujeto acaba de pasar por un episodio de apnea leve. En casos de apnea, es común que se genere taquicardia post-apnea, caracterizada por un aumento notable de la frecuencia cardíaca inmediatamente después del episodio de apnea. Sin embargo, no se pudo analizar de manera precisa la transición entre el aguante de la respiración y la respiración normal, ya que la grabación se realizó cuando el paciente ya había comenzado a respirar, y no en el momento previo.
  
  ### 4.5. Limitaciones <a name="p5"></a>
- Texto
+ ####**Interferencias con el Bitalino**
+ - Intentamos realizar la prueba con el sujeto y el Bitalino inmóviles, pero los pequeños movimientos naturales del paciente afectaron la precisión del Bitalino, especialmente en relación con la sensibilidad de la batería, ya que en algunos monentos se perdía la conexión con la laptop.
+ - Los electrodos estuvieron en contacto con el polo y aunque seguimos la guía de colocación de los electrodos (basada en lo aprendido en clase y en las instrucciones del Bitalino), es posible que no haya sido perfecta, lo que dejó márgenes de error en los resultados. A pesar de ello, nos aseguramos de que los electrodos no tocaran la clavícula.
+ ####**Condiciones del sujeto durante el reposo**
+- Durante la fase de reposo e inhalación, el sujeto de pruebas mostró mucho sueño por lo que sus resultados pueden haber sido afectados por ello, teniendolo en consideración en caso la frecuencia cardiaca sea más baja que las otras gráficas.
+ ####**Problemas durante la tercera muestra**
+- En la tercera muestra, una alarma de incendio en el laboratorio interrumpió la prueba cuando estábamos capturando los datos de la primera derivación posterior al ejercicio. Debido a esta interrupción, la segunda y tercera derivación se realizaron después de un tiempo largo de reposo y luego de que el sujeto haya vuelto a realizar el mismo circuito de ejercicio, lo que podría haber afectado los resultados.
+- Aunque el sujeto es un joven deportista, no podemos afirmar con certeza que su cuerpo se haya adaptado al estrés repentino, lo que podría influir en la precisión de la segunda y tercera derivación, especialmente en caso de anomalías. 
+- Debido a un problema en el guardado de los datos, realizamos primero la derivación III y luego la derivación II. Esto se refleja en cómo el cuerpo se adaptó con el tiempo, lo que llevó a una reducción progresiva en la frecuencia cardíaca promedio.
+ 
  
  ## 5. Referencias bibliográficas <a name="n5"></a>
- [1] Sattar, Yasar, and Lovely Chhabra. “Electrocardiogram.” Nih.gov, StatPearls Publishing, 5 June 2023, www.ncbi.nlm.nih.gov/books/NBK549803/. Accessed 28 Apr. 2025.  
- [2] Dr Araz Rawshani, M.D, PhD. “ECG Interpretation: Characteristics of the Normal ECG (P-Wave, QRS Complex, ST Segment, T-Wave).” The Cardiovascular, 30 May 2017, ecgwaves.com/topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/. Accessed 28 Apr. 2025.  
- [3] “Electrocardiogram (ECG or EKG) - Mayo Clinic.” Mayoclinic.org, 2025, www.mayoclinic.org/es/tests-procedures/ekg/about/pac-20384983. Accessed 28 Apr. 2025.  
- [4]
- [5]
- [6]
+ [1] Sattar, Yasar, and Lovely Chhabra. “Electrocardiogram.” Nih.gov, StatPearls Publishing, 5 June 2023, www.ncbi.nlm.nih.gov/books/NBK549803/.  
+ [2] Dr Araz Rawshani, M.D, PhD. “ECG Interpretation: Characteristics of the Normal ECG (P-Wave, QRS Complex, ST Segment, T-Wave).” The Cardiovascular, 30 May 2017, ecgwaves.com/topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/.  
+ [3] “Electrocardiograma.” Medlineplus.gov, 2022, medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/#:~:text=Un%20electrocardiograma%20suele%20ser%20la,card%C3%ADaco%20llamado%20prueba%20de%20esfuerzo.
+ [4] “Dos Maneras Fáciles Y Precisas de Medir Tu Frecuencia Cardíaca.” Mayo Clinic, 2025, www.mayoclinic.org/es/healthy-lifestyle/fitness/expert-answers/heart-rate/faq-20057979.  
+ [5] Perry, Sean, et al. “Control of Heart Rate through Guided High-Rate Breathing.” Scientific Reports, vol. 9, no. 1, 7 Feb. 2019, www.nature.com/articles/s41598-018-38058-5, https://doi.org/10.1038/s41598-018-38058-5.
+ [6] Simoons, M L, and P G Hugenholtz. “Gradual Changes of ECG Waveform during and after Exercise in Normal Subjects.” Circulation, vol. 52, no. 4, Oct. 1975, pp. 570–577, pubmed.ncbi.nlm.nih.gov/1157270/, https://doi.org/10.1161/01.cir.52.4.570. 
  
