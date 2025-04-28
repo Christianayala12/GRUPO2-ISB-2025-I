@@ -14,7 +14,7 @@
    
  ## 1. Introducción <a name="n1"></a>
 
- ### **¿Qué es un electrocardiograma (ECG?**
+ ### **¿Qué es un electrocardiograma (ECG)?**
 El electrocardiograma o electrocardiografía es una prueba donde se ve el seguimiento eléctrico del corazón de manera no invasiva, indolora y simple. Esté concepto funciona gracias a los principios anatómicos del corazón (1), que cuenta con una células marcapasos en su nódulo SA y AV que marcan el ritmo cardíaco (en general usamos el más rápido, que en una persona sin problemas cardiacos es el SA). A partir de este contexto, el ploteo que se termina viendo en el electrocardiograma consta de unas ondas particulares ya reconocidas que nos dan datos de cómo está trabajando el corazón en general.
 
 ### **Ondas del electrocardiograma**
