@@ -145,12 +145,12 @@ Durante el ejercicio, la frecuencia cardíaca del sujeto varió entre 108.3 y 10
 En este ejercicio, se observa que la frecuencia cardíaca varía entre 96 y 101 bpm, lo cual es normal considerando que el sujeto acaba de pasar por un episodio de apnea leve. En casos de apnea, es común que se genere taquicardia post-apnea, caracterizada por un aumento notable de la frecuencia cardíaca inmediatamente después del episodio de apnea. Sin embargo, no se pudo analizar de manera precisa la transición entre el aguante de la respiración y la respiración normal, ya que la grabación se realizó cuando el paciente ya había comenzado a respirar, y no en el momento previo.
  
  ### 4.5. Limitaciones <a name="p5"></a>
- ####**Interferencias con el Bitalino**
+ #### **Interferencias con el Bitalino**
  - Intentamos realizar la prueba con el sujeto y el Bitalino inmóviles, pero los pequeños movimientos naturales del paciente afectaron la precisión del Bitalino, especialmente en relación con la sensibilidad de la batería, ya que en algunos monentos se perdía la conexión con la laptop.
  - Los electrodos estuvieron en contacto con el polo y aunque seguimos la guía de colocación de los electrodos (basada en lo aprendido en clase y en las instrucciones del Bitalino), es posible que no haya sido perfecta, lo que dejó márgenes de error en los resultados. A pesar de ello, nos aseguramos de que los electrodos no tocaran la clavícula.
- ####**Condiciones del sujeto durante el reposo**
+ #### **Condiciones del sujeto durante el reposo**
 - Durante la fase de reposo e inhalación, el sujeto de pruebas mostró mucho sueño por lo que sus resultados pueden haber sido afectados por ello, teniendolo en consideración en caso la frecuencia cardiaca sea más baja que las otras gráficas.
- ####**Problemas durante la tercera muestra**
+ #### **Problemas durante la tercera muestra**
 - En la tercera muestra, una alarma de incendio en el laboratorio interrumpió la prueba cuando estábamos capturando los datos de la primera derivación posterior al ejercicio. Debido a esta interrupción, la segunda y tercera derivación se realizaron después de un tiempo largo de reposo y luego de que el sujeto haya vuelto a realizar el mismo circuito de ejercicio, lo que podría haber afectado los resultados.
 - Aunque el sujeto es un joven deportista, no podemos afirmar con certeza que su cuerpo se haya adaptado al estrés repentino, lo que podría influir en la precisión de la segunda y tercera derivación, especialmente en caso de anomalías. 
 - Debido a un problema en el guardado de los datos, realizamos primero la derivación III y luego la derivación II. Esto se refleja en cómo el cuerpo se adaptó con el tiempo, lo que llevó a una reducción progresiva en la frecuencia cardíaca promedio.
