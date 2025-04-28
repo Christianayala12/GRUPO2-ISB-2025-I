@@ -18,7 +18,7 @@
 El electrocardiograma o electrocardiografía es una prueba donde se ve el seguimiento eléctrico del corazón de manera no invasiva, indolora y simple. Esté concepto funciona gracias a los principios anatómicos del corazón (1), que cuenta con una células marcapasos en su nódulo SA y AV que marcan el ritmo cardíaco (en general usamos el más rápido, que en una persona sin problemas cardiacos es el SA). A partir de este contexto, el ploteo que se termina viendo en el electrocardiograma consta de unas ondas particulares ya reconocidas que nos dan datos de cómo está trabajando el corazón en general.
 
 ### **Ondas del electrocardiograma**
-- **Onda P:** Es la primera onda que visualizamos y tiene una duración entre 0.12 a 0.22 segundos (incluyendo un pequeño segmento antes de la siguiente onda)(2). Está onda representa la despolarización de la aurícula y  la primera mitad representa la despolarización de la aurícula derecha mientras que la segunda mitad representa la despolarización de la aurícula izquierda (1).
+- **Onda P:** Es la primera onda que visualizamos y tiene una duración entre 0.12 a 0.22 segundos (incluyendo un pequeño segmento antes de la siguiente onda) (2). Está onda representa la despolarización de la aurícula y  la primera mitad representa la despolarización de la aurícula derecha mientras que la segunda mitad representa la despolarización de la aurícula izquierda (1).
 - **Complejo QRS**: Luego suele seguir el arreglo QRS, que es la combinación de 3 ondas respectivas y suelen durar entre 60 a 100 milisegundos. Esté arreglo representa la despolarización ventricular, midiendo no sólo los impulsos de los ventrículos sino que también el del tabique interventricular (1).
 - **Onda T**: Se visualiza al final y representa la repolarización ventricular y está suele mostrar muchas variaciones si es que se tiene presenta alguna patología (1).
 
@@ -37,21 +37,34 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 - Enfermedad de las válvulas del corazón
 - Defectos cardíacos congénitos
 
-
-
-
- 
  ## 2. Propósito de la práctica <a name="n2"></a>
- Texto
+ - Adquirir señales biomédicas de ECG.
+ - Hacer una correcta configuración de BiTalino.
+ - Extraer la información de las señales ECG del software OpenSignals (r)evolution.
+ - Plotear de las señales en el dominio del tiempo en Python y analizarlas.
 
  ## 3. Materiales y metodología <a name="n3"></a>
- Texto
+ ### Materiales
+| Descripción                                   | Cantidad | 
+|----------------------------------------------|----------|
+| Batería 3.7V                                  | 1        | 
+| OpenSignals - PLUX Wireless Biosignals SA    | 1        | 
+| Electrodos descartables tipo disco           | 3        | 
+| Cable de 3 electrodos sensor Ag/AgCl         | 1        | 
+| BITalino                                     | 1        | 
+| Laptop                                       | 1        | 
+ 
+ ### Metodología
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
- Texto
+ Se mostrarán 3 imágenes por actividad, donde se visualizan las derivadas I, II, III en ese orden  para luego hacer un breve análisis de cada una.
 
  ### 4.1. Lectura de Línea Basal en Reposo <a name="p1"></a>
- Texto
+  |                | Derivada 1                  | Derivada 2                  | Derivada 3                  |
+|----------------|------------------------------|------------------------------|------------------------------|
+| Señal cruda         | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev1.1.png) | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev2.1.png)        | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev3.1.png)        |
+| Señal procesada    | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev1.1.png)   | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev2.1.png)   | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev3.1.png)   |
+| Señal ploteada con ECG_PLOT| ![](Imagenes_L5/SIGNALS_ECG.PLOT/plot_reposo_dev1.1.png)   | ![](Imagenes_L5/SIGNALS_ECG.PLOT/plot_reposo_dev2.1.png)   | ![](Imagenes_L5/SIGNALS_ECG.PLOT/plot_reposo_dev3.1.png)   |
 
  ### 4.2. Respiración Controlada con Reposo <a name="p2"></a>
  Texto
