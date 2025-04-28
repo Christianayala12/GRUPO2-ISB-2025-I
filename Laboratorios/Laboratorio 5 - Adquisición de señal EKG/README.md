@@ -146,14 +146,14 @@ En este ejercicio, se observa que la frecuencia cardíaca varía entre 96 y 101 
  
  ### 4.5. Limitaciones <a name="p5"></a>
  #### **Interferencias con el Bitalino**
- - Intentamos realizar la prueba con el sujeto y el Bitalino inmóviles, pero los pequeños movimientos naturales del paciente afectaron la precisión del Bitalino, especialmente en relación con la sensibilidad de la batería, ya que en algunos monentos se perdía la conexión con la laptop.
+ - Intentamos realizar la prueba con el sujeto y el Bitalino inmóviles, pero los pequeños movimientos naturales del paciente afectaron la precisión del Bitalino, especialmente en relación con la sensibilidad de la batería, ya que en algunos momentos se perdía la conexión con la laptop.
  - Los electrodos estuvieron en contacto con el polo y aunque seguimos la guía de colocación de los electrodos (basada en lo aprendido en clase y en las instrucciones del Bitalino), es posible que no haya sido perfecta, lo que dejó márgenes de error en los resultados. A pesar de ello, nos aseguramos de que los electrodos no tocaran la clavícula.
  #### **Condiciones del sujeto durante el reposo**
 - Durante la fase de reposo e inhalación, el sujeto de pruebas mostró mucho sueño por lo que sus resultados pueden haber sido afectados por ello, teniendolo en consideración en caso la frecuencia cardiaca sea más baja que las otras gráficas.
  #### **Problemas durante la tercera muestra**
 - En la tercera muestra, una alarma de incendio en el laboratorio interrumpió la prueba cuando estábamos capturando los datos de la primera derivación posterior al ejercicio. Debido a esta interrupción, la segunda y tercera derivación se realizaron después de un tiempo largo de reposo y luego de que el sujeto haya vuelto a realizar el mismo circuito de ejercicio, lo que podría haber afectado los resultados.
 - Aunque el sujeto es un joven deportista, no podemos afirmar con certeza que su cuerpo se haya adaptado al estrés repentino, lo que podría influir en la precisión de la segunda y tercera derivación, especialmente en caso de anomalías. 
-- Debido a un problema en el guardado de los datos, realizamos primero la derivación III y luego la derivación II. Esto se refleja en cómo el cuerpo se adaptó con el tiempo, lo que llevó a una reducción progresiva en la frecuencia cardíaca promedio.
+- Debido a un problema en el guardado de los datos, realizamos primero la derivación III y luego la derivación II. Esto se refleja en cómo el cuerpo se adaptó con el tiempo, lo que llevó a una reducción progresiva en la frecuencia cardíaca promedio, siendo menor en la tercera derivada que en la segunda.
  
  
  ## 5. Referencias bibliográficas <a name="n5"></a>
@@ -161,6 +161,6 @@ En este ejercicio, se observa que la frecuencia cardíaca varía entre 96 y 101 
  [2] Dr Araz Rawshani, M.D, PhD. “ECG Interpretation: Characteristics of the Normal ECG (P-Wave, QRS Complex, ST Segment, T-Wave).” The Cardiovascular, 30 May 2017, ecgwaves.com/topic/ecg-normal-p-wave-qrs-complex-st-segment-t-wave-j-point/.  
  [3] “Electrocardiograma.” Medlineplus.gov, 2022, medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/#:~:text=Un%20electrocardiograma%20suele%20ser%20la,card%C3%ADaco%20llamado%20prueba%20de%20esfuerzo.
  [4] “Dos Maneras Fáciles Y Precisas de Medir Tu Frecuencia Cardíaca.” Mayo Clinic, 2025, www.mayoclinic.org/es/healthy-lifestyle/fitness/expert-answers/heart-rate/faq-20057979.  
- [5] Perry, Sean, et al. “Control of Heart Rate through Guided High-Rate Breathing.” Scientific Reports, vol. 9, no. 1, 7 Feb. 2019, www.nature.com/articles/s41598-018-38058-5, https://doi.org/10.1038/s41598-018-38058-5.
+ [5] Perry, Sean, et al. “Control of Heart Rate through Guided High-Rate Breathing.” Scientific Reports, vol. 9, no. 1, 7 Feb. 2019, www.nature.com/articles/s41598-018-38058-5, https://doi.org/10.1038/s41598-018-38058-5.  
  [6] Simoons, M L, and P G Hugenholtz. “Gradual Changes of ECG Waveform during and after Exercise in Normal Subjects.” Circulation, vol. 52, no. 4, Oct. 1975, pp. 570–577, pubmed.ncbi.nlm.nih.gov/1157270/, https://doi.org/10.1161/01.cir.52.4.570. 
  
