@@ -80,13 +80,63 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 
 
  ### 4.2. Respiración Controlada con Reposo <a name="p2"></a>
- Texto
+   | Derivada | Señal cruda |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/RAW_SIGNALS/respiracion_dev1.1.png) |
+| **II** | ![](Imagenes_L5/RAW_SIGNALS/respiracion_dev2.1.png) |
+| **III** | ![](Imagenes_L5/RAW_SIGNALS/respiracion_dev3.1.png) |
+
+| Derivada | Señal procesada |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_resp_dev1.1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_resp_dev2.1.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_resp_dev3.1.png) |
+
+| Derivada | Señal ploteada con `ecg_plot()` |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_resp_dev1.1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_resp_dev2.1.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_resp_dev3.1.png) |
 
  ### 4.3. Lectura Post-Agotamiento Físico <a name="p3"></a>
- Texto
+   | Derivada | Señal cruda |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/RAW_SIGNALS/ejercicio_dev1.png) |
+| **II** | ![](Imagenes_L5/RAW_SIGNALS/ejercicio_dev2.png) |
+| **III** | ![](Imagenes_L5/RAW_SIGNALS/ejercicio_dev3.png) |
+
+| Derivada | Señal procesada |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_ej_dev1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_ej_dev2.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_ej_dev3.png) |
+
+| Derivada | Señal ploteada con `ecg_plot()` |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev1.1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev2.1.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_ejercicio_dev3.1.png) |
+
  
  ### 4.4. Lectura Post-Apnea Prolongada <a name="p4"></a>
- Texto
+  | Derivada | Señal cruda |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev1.png) |
+| **II** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev1.png) |
+| **III** | ![](Imagenes_L5/RAW_SIGNALS/inhala_dev1.png) |
+
+| Derivada | Señal procesada |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev2.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_inhala_dev3.png) |
+
+| Derivada | Señal ploteada con `ecg_plot()` |
+|:--------:|:------:|
+| **I** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_inhala_dev1.1.png) |
+| **II** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_inhala_dev2.1.png) |
+| **III** | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_inhala_dev3.1.png) |
+
  
  ### 4.5. Limitaciones <a name="p5"></a>
  Texto
