@@ -64,7 +64,7 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 |----------------|------------------------------|------------------------------|------------------------------|
 | Señal cruda         | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev1.1.png) | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev2.1.png)        | ![](Imagenes_L5/RAW_SIGNALS/reposo_dev3.1.png)        |
 | Señal procesada    | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev1.1.png)   | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev2.1.png)   | ![](Imagenes_L5/SIGNALS_PROCESSED/proc_reposo_dev3.1.png)   |
-| Señal ploteada con ECG_PLOT| ![](Imagenes_L5/SIGNALS_ECG.PLOT/plot_reposo_dev1.1.png)   | ![](Imagenes_L5/SIGNALS_ECG.PLOT/plot_reposo_dev2.1.png)   | ![](Imagenes_L5/SIGNALS_ECG.PLOT/plot_reposo_dev3.1.png)   |
+| Señal ploteada con ECG_PLOT| ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev1.1.png)   | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev2.1.png)   | ![](Imagenes_L5/SIGNALS_ECG_PLOT/plot_reposo_dev3.1.png)   |
 
  ### 4.2. Respiración Controlada con Reposo <a name="p2"></a>
  Texto
