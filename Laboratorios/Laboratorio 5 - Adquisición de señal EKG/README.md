@@ -55,6 +55,40 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 | Laptop                                       | 1        | 
  
  ### Metodología
+1. Instalación del software OpenSignals
+   Descargar Open Signals desde la web oficial de BITalino.
+   - Pagina web: https://support.pluxbiosignals.com/knowledge-base/introducing-opensignals-revolution/
+     ![](Imagenes_L5/RAW_SIGNALS/reposo_dev1.1.png)
+   - Extraer e instalar el programa.
+   - Aceptar los términos y condiciones al primer inicio.
+   - Activar Bluetooth en la laptop o PC.
+
+2. Conexión de BITalino
+   - Reunir el kit del BITalino: Cable de fuente de alimentación, electrodos de 3 derivaciones, batería 3.7 V, sensor electrodo desechable, guía rápida y placa BITalino.
+     IMAGENNNNNNNNNN
+   - Descargar el Datasheet y User Manual.
+   - Consultar sección 2.2.1 para conectar correctamente el cable de ECG.
+   - Colocar los electrodos en el cuerpo y conectar el BITalino a la batería.
+   - Emparejar BITalino en Windows mediante Bluetooth (PIN: 1234).
+
+3. Captura de señal ECG
+   - Con OpenSignals ya configurado, visualizar la señal ECG.
+   - Ubicar electrodos según el estándar de derivaciones para ECG (ondas P, QRS, T).
+   - Analizar la señal en diferentes condiciones:
+
+      - Estado basal (reposo).
+         - El usuario debe permanecer sentado durante las mediciones
+         IMAGENNNNNNNNNN
+           Imagen 3: Imagen referencial de posición para la medición en reposo
+
+         - Apnea (mantener respiración, precaución con la hiperventilación).
+            - Se realiza la medición durante el reposo post-apnea.
+              
+         - Post-ejercicio (5 minutos de actividad aeróbica).
+            - Se realizaron burpees y polichinelas:
+            1. Burpees 1:30 minutos
+            2. Polichinelas 2 minutos
+            3. Burpees 30 segundos
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
  Se mostrarán 3 imágenes por actividad, donde se visualizan las derivadas I, II, III en ese orden  para luego hacer un breve análisis de cada una.
