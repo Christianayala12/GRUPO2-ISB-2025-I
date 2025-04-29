@@ -114,6 +114,9 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
         - Se realiza la medición durante el reposo post-apnea.
         - Se deben realizar dos registros de 30 segundos para cada una de las derivaciones I, II y III. 
               
+**4. Procesamiento de la señal**
+Se utilizó Python 3.12 junto con las librerías NeuroKit2, Matplotlib y OpenSignalsReader para el procesamiento y análisis de las señales ECG adquiridas.
+[Accede al Colab con los códigos utilizados aquí: ](https://colab.research.google.com/drive/1ld8ZNOZsKMD50hOtJhWuyDkUzi8gF6FN?usp=sharing)
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
  Se mostrarán 3 imágenes por actividad, donde se visualizan las derivadas I, II, III en ese orden  para luego hacer un breve análisis de cada una.
