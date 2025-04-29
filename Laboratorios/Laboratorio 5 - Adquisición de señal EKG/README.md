@@ -110,10 +110,10 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
                </div>
            5. Burpees 30 segundos
          
-           | Ejercicio      | Video 🎥                                      |
-|----------------|-----------------------------------------------|
-| Burpees        | [Ver video](https://drive.google.com/drive/u/2/folders/1sYtu9_cBelI6UwX0aly2qGQ-89I3F3An) |
-| Polichinela    | [Ver video](https://drive.google.com/drive/u/2/folders/1sYtu9_cBelI6UwX0aly2qGQ-89I3F3An) |   
+               | Ejercicio      | Video 🎥                            |
+               |----------------|-----------------------------------------------|
+               | Burpees        | [Ver video](https://drive.google.com/drive/u/2/folders/1sYtu9_cBelI6UwX0aly2qGQ-89I3F3An) |
+               | Polichinela    | [video](https://drive.google.com/drive/u/2/folders/1sYtu9_cBelI6UwX0aly2qGQ-89I3F3An) |   
              
       - **Apnea (mantener respiración, precaución con la hiperventilación)**.
         - Se realiza la medición durante el reposo post-apnea.
