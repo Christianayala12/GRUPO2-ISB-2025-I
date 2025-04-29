@@ -24,7 +24,7 @@ El electrocardiograma o electrocardiografía es una prueba donde se ve el seguim
 
 <div align="center">
   <img src="./Imagenes_L5/IMG_INFORME/IMG1.png" alt="Ondas del Electrocardiograma" width="60%">
-  <p><strong>Figura 1:</strong> Ondas del Electrocardiograma (3).</p>
+  <p><strong>Figura 1:</strong> Ondas del Electrocardiograma (3)</p>
 </div>
 
 Cabe mencionar que estas ondas y su forma dependen mucho del modo de conexión de los electrodos (las derivaciones), por lo que esas variaciones nos dan la posibilidad de entender el funcionamiento del corazón de mejor manera. Además, cada onda nos puede dar datos a través de su forma, pero también es importante ver la amplitud de cada una y su duración, pues estos datos también son útiles para futuros diagnósticos.  
@@ -55,40 +55,56 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
 | Laptop                                       | 1        | 
  
  ### Metodología
-1. Instalación del software OpenSignals
+ 
+**1. Instalación del software OpenSignals**
    Descargar Open Signals desde la web oficial de BITalino.
-   - Pagina web: https://support.pluxbiosignals.com/knowledge-base/introducing-opensignals-revolution/
-     ![](Imagenes_L5/RAW_SIGNALS/reposo_dev1.1.png)
+   - **Página web**: https://support.pluxbiosignals.com/knowledge-base/introducing-opensignals-revolution/
+     <div align="center">
+        <img src="./Imagenes_L5/IMG_INFORME/OpenSignal_Logo.png" alt="Logo" width="40%">
+        <p><strong>Figura 2:</strong>  Logo de software OpenSignals</p>
+      </div>
    - Extraer e instalar el programa.
    - Aceptar los términos y condiciones al primer inicio.
    - Activar Bluetooth en la laptop o PC.
 
-2. Conexión de BITalino
+**2. Conexión de BITalino**
    - Reunir el kit del BITalino: Cable de fuente de alimentación, electrodos de 3 derivaciones, batería 3.7 V, sensor electrodo desechable, guía rápida y placa BITalino.
-     IMAGENNNNNNNNNN
+     <div align="center">
+        <img src="./Imagenes_L5/IMG_INFORME/PlacaBitalino.png" alt="Logo" width="40%">
+        <p><strong>Figura 3:</strong>  Kit de BITalino</p>
+      </div>
    - Descargar el Datasheet y User Manual.
    - Consultar sección 2.2.1 para conectar correctamente el cable de ECG.
    - Colocar los electrodos en el cuerpo y conectar el BITalino a la batería.
    - Emparejar BITalino en Windows mediante Bluetooth (PIN: 1234).
 
-3. Captura de señal ECG
+**3. Captura de señal ECG**
    - Con OpenSignals ya configurado, visualizar la señal ECG.
    - Ubicar electrodos según el estándar de derivaciones para ECG (ondas P, QRS, T).
    - Analizar la señal en diferentes condiciones:
 
-      - Estado basal (reposo).
-         - El usuario debe permanecer sentado durante las mediciones
-         IMAGENNNNNNNNNN
-           Imagen 3: Imagen referencial de posición para la medición en reposo
+      - **Estado basal (reposo)**:
+        - El usuario debe permanecer sentado durante las mediciones
+        - Derivadas I, II y III, 2 mediciones en 30 segundos de cada una
+        <div align="center">
+           <img src="./Imagenes_L5/IMG_INFORME/Sentado.png" alt="Sentado" width="25%">
+           <p><strong>Figura 4:</strong>  Imagen referencial de posición para la medición en reposo</p>
+         </div>
 
-         - Apnea (mantener respiración, precaución con la hiperventilación).
-            - Se realiza la medición durante el reposo post-apnea.
+      - **Respiración controlada con Reposo)**:
+        - Inspirar por 5 segundos y exhalar por 5 segundos
+        - Derivadas I, II y III, 2 mediciones en 30 segundos de cada una  
+      
+      - ¨**Post-ejercicio (5 minutos de actividad aeróbica)**.
+        - Se realizaron burpees y polichinelas:
+           1. Burpees 1:30 minutos
+           2. Polichinelas 2 minutos
+           3. Burpees 30 segundos
+             
+      - **Apnea (mantener respiración, precaución con la hiperventilación)**.
+        - Se realiza la medición durante el reposo post-apnea.
+        - Derivadas I, II y III, 2 mediciones en 30 segundos de cada una
               
-         - Post-ejercicio (5 minutos de actividad aeróbica).
-            - Se realizaron burpees y polichinelas:
-            1. Burpees 1:30 minutos
-            2. Polichinelas 2 minutos
-            3. Burpees 30 segundos
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
  Se mostrarán 3 imágenes por actividad, donde se visualizan las derivadas I, II, III en ese orden  para luego hacer un breve análisis de cada una.
