@@ -112,8 +112,8 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
          
                | Ejercicio      | Video 🎥                            |
                |----------------|-----------------------------------------------|
-               | Burpees        | [Ver video](https://drive.google.com/drive/u/2/folders/1sYtu9_cBelI6UwX0aly2qGQ-89I3F3An) |
-               | Polichinela    | [Ver video](https://drive.google.com/drive/u/2/folders/1sYtu9_cBelI6UwX0aly2qGQ-89I3F3An) |   
+               | Burpees        | [Ver video](https://drive.google.com/file/d/1qi5R5_Bk9DGPeji1YGhg2cJbBiemJJNS/view?t=4) |
+               | Polichinela    | [Ver video](https://drive.google.com/open?id=1buPj7mBrZZFDMMvHz7rm-EFtpBGZIjmx&authuser=2) |   
              
       - **Apnea (mantener respiración, precaución con la hiperventilación)**.
         - Se realiza la medición durante el reposo post-apnea.
