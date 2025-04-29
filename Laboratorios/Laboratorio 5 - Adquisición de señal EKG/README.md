@@ -87,7 +87,7 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
         - El usuario debe permanecer sentado durante las mediciones.
         - Se deben realizar dos registros de 30 segundos para cada una de las derivaciones I, II y III.
         <div align="center">
-           <img src="./Imagenes_L5/IMG_INFORME/Sentado.png" alt="Sentado" width="25%">
+           <img src="./Imagenes_L5/IMG_INFORME/Sentado.png" alt="Sentado" width="18%">
            <p><strong>Figura 4:</strong>  Imagen referencial de posición para la medición en reposo</p>
          </div>
 
@@ -96,23 +96,23 @@ Por último, mencionar que las **enfermedades** que podemos diagnosticar con el 
         - Se deben realizar dos registros de 30 segundos para cada una de las derivaciones I, II y III. 
       
       - **Post-ejercicio (5 minutos de actividad aeróbica)**.
-        - - Se debe realizar un registro de 30 segundos para cada una de las derivaciones I, II y III. 
+        - Se debe realizar un registro de 30 segundos para cada una de las derivaciones I, II y III. 
         - Se realizaron burpees y polichinelas:
            1. Burpees 1:30 minutos
-              <div align="center">
-                 <img src="./Imagenes_L5/IMG_INFORME/burpees.png" alt="Sentado" width="25%">
+              <div align="left">
+                 <img src="./Imagenes_L5/IMG_INFORME/burpees.png" alt="Sentado" width="45%">
                  <p><strong>Figura 5:</strong>  Burpees</p>
                </div>
            3. Polichinelas 2 minutos
-              <div align="center">
-                 <img src="./Imagenes_L5/IMG_INFORME/polichinelas.jpg" alt="Sentado" width="25%">
+              <div align="left">
+                 <img src="./Imagenes_L5/IMG_INFORME/polichinelas.jpg" alt="Sentado" width="20%">
                  <p><strong>Figura 6:</strong> Polichinelas</p>
                </div>
            5. Burpees 30 segundos
              
       - **Apnea (mantener respiración, precaución con la hiperventilación)**.
         - Se realiza la medición durante el reposo post-apnea.
-        - - Se deben realizar dos registros de 30 segundos para cada una de las derivaciones I, II y III. 
+        - Se deben realizar dos registros de 30 segundos para cada una de las derivaciones I, II y III. 
               
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
