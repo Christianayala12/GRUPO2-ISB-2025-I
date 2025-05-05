@@ -55,8 +55,7 @@ En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda s
 
   3. **Condiciones de obtención de señal**
      Para la obtención de las señales, el sujeto de estudio se mantuvo en posición de sedestación, la cual fue asegurada por los investigadores para garantizar condiciones estables durante el registro. A continuación, se detallan las diferentes condiciones bajo las cuales se realizaron las mediciones:
-Para la obtención de las señales, el sujeto de estudio se mantuvo en posición de sedestación, la cual fue supervisada y asegurada por los investigadores para garantizar condiciones estables durante el registro. A continuación, se detallan las diferentes condiciones bajo las cuales se realizaron las mediciones:
-
+     
 | **Condición de Registro**         | **Descripción**                                                                                                          | **Duración**   |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------|
 | **Basal 1 (Ojos abiertos)**      | El sujeto en sedestación fijó la mirada en un punto con los ojos abiertos.                                               | 1 minuto       |
