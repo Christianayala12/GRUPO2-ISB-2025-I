@@ -35,11 +35,19 @@ Una vez que se registra estos potenciales, lo que se termina analizando no es la
   1. **Posición de los electrodos:**  
 El electrodo de referencia se ubicó detrás de la oreja en la apófisis mastoides del lado izquierdo del sujeto de estudio, para lograr esto, se le pidió al sujeto de estudio que girara la cabeza hacia la deroha para lograr un mayor pronunciamiento del músculo esternocleidomastoideo y lograr apreciar el esternón.
 <div align="center">
-        <img src="./Imagenes_L6/IMG_INFORME/esternocleidomastoideo .png" alt="esternocleidomastoideo " width="40%">
+        <img src="./Imagenes_L6/esternocleidomastoideo.png" alt="esternocleidomastoideo " width="40%">
         <p><strong>Figura 1:</strong>  Esternocleidomastoideo </p>
       </div>
 En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda sobre la frente, mientras que el polo negativo se ubica en la parte frontal derecha sobre la frente del sujeto de estudio.
+<div align="center">
+        <img src="./Imagenes_L6/Andy.png" alt="andyo " width="40%">
+        <p><strong>Figura 2:</strong> Ubicación de electrodos en el sujeto de prueba </p>
+      </div>
 
+<div align="center">
+        <img src="./Imagenes_L6/Electrodos.png" alt="Electrodos " width="40%">
+        <p><strong>Figura 3:</strong> Colocación de electrodos para medir EEG en la posición FP1: Pines de medición IN+/- (izquierda) y referencia (derecha)</p>
+      </div>
 
   3. 
 
