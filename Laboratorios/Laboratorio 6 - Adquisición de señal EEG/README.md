@@ -32,24 +32,41 @@ Una vez que se registra estos potenciales, lo que se termina analizando no es la
 | Ultracortex Mark IV (dry-electrode headset)        | Rotativo (demo)    |
 
   ### Procedimiento
-  1. **Posición de los electrodos:**  
-El electrodo de referencia se ubicó detrás de la oreja en la apófisis mastoides del lado izquierdo del sujeto de estudio, para lograr esto, se le pidió al sujeto de estudio que girara la cabeza hacia la deroha para lograr un mayor pronunciamiento del músculo esternocleidomastoideo y lograr apreciar el esternón.
+  1. **Posición del electrodo de referencia:**  
+El electrodo de referencia se ubicó detrás de la oreja en la apófisis mastoides del lado izquierdo del sujeto de estudio, para lograr esto, se le pidió al sujeto de estudio que girara la cabeza hacia la derecha para lograr un mayor pronunciamiento del músculo esternocleidomastoideo y lograr apreciar el esternón.
+
 <div align="center">
         <img src="./Imagenes_L6/esternocleidomastoideo.png" alt="esternocleidomastoideo " width="40%">
         <p><strong>Figura 1:</strong>  Esternocleidomastoideo </p>
       </div>
+      
+   2. **Posición de los electrodos de señal:**  
 En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda sobre la frente, mientras que el polo negativo se ubica en la parte frontal derecha sobre la frente del sujeto de estudio.
+
 <div align="center">
-        <img src="./Imagenes_L6/Andy.png" alt="andyo " width="40%">
+        <img src="./Imagenes_L6/Andy.png" alt="andy " width="40%">
         <p><strong>Figura 2:</strong> Ubicación de electrodos en el sujeto de prueba </p>
       </div>
-
+      
 <div align="center">
         <img src="./Imagenes_L6/Electrodos.png" alt="Electrodos " width="40%">
         <p><strong>Figura 3:</strong> Colocación de electrodos para medir EEG en la posición FP1: Pines de medición IN+/- (izquierda) y referencia (derecha)</p>
       </div>
 
-  3. 
+  3. **Condiciones de obtención de señal**
+     Para la obtención de las señales, el sujeto de estudio se mantuvo en posición de sedestación, la cual fue asegurada por los investigadores para garantizar condiciones estables durante el registro. A continuación, se detallan las diferentes condiciones bajo las cuales se realizaron las mediciones:
+Para la obtención de las señales, el sujeto de estudio se mantuvo en posición de sedestación, la cual fue supervisada y asegurada por los investigadores para garantizar condiciones estables durante el registro. A continuación, se detallan las diferentes condiciones bajo las cuales se realizaron las mediciones:
+
+| **Condición de Registro**         | **Descripción**                                                                                                          | **Duración**   |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------|
+| **Basal 1 (Ojos abiertos)**      | El sujeto en sedestación fijó la mirada en un punto con los ojos abiertos.                                               | 1 minuto       |
+| **Basal 2 (Ojos cerrados)**      | El sujeto cerró los ojos en un entorno oscuro controlado por los investigadores.                                         | 1 minuto       |
+| **Tarea cognitiva**              | El sujeto realizó una tarea de resta en silencio (restar 7 desde 100).                                                   | 2 minutos      |
+| **Estudio de artefactos**        | El sujeto parpadeó y masticó simultáneamente.                                                                            | 2 minutos      |
+| **Estudio libre**                | El sujeto realizó cálculos mentales que requerían un alto grado de concentración.                                        | 6 minutos      |
+
+
+  5. 
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
 
