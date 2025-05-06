@@ -53,7 +53,7 @@ En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda s
         <p><strong>Figura 3:</strong> Colocación de electrodos para medir EEG en la posición FP1: Pines de medición IN+/- (izquierda) y referencia (derecha)</p>
       </div>
 
-  3. **Condiciones de obtención de señal**
+  3. **Condiciones de obtención de señal:**  
      Para la obtención de las señales, el sujeto de estudio se mantuvo en posición de sedestación, la cual fue asegurada por los investigadores para garantizar condiciones estables durante el registro. A continuación, se detallan las diferentes condiciones bajo las cuales se realizaron las mediciones:
      
 | **Condición de Registro**         | **Descripción**                                                                                                          | **Duración**   |
@@ -66,7 +66,7 @@ En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda s
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
 
- 1. **Resultados**
+ 1. **Resultados:**  
 Se presenta la tabla que muestra las señales antes y después de ser procesadas mediante un filtro pasabanda con un rango de frecuencias de 0.8 Hz a 48 Hz.
 
 | Condición         | Señal Crudo     | Señal Filtrada  |
