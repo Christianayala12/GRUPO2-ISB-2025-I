@@ -67,7 +67,7 @@ En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda s
  ## 4. Resultados y limitaciones <a name="n4"></a>
 
  1. **Resultados:**  
-Se presenta la tabla que muestra las señales antes y después de ser procesadas mediante un filtro pasabanda con un rango de frecuencias de 0.8 Hz a 48 Hz.
+Se presenta la tabla que muestra las señales antes y después de ser procesadas mediante un filtro pasabanda con un rango de frecuencias de 0.8 Hz a 48 Hz. El procesamiento utilizado se encuentra en el siguiente [link.](https://colab.research.google.com/drive/1Jq1lV_rPps8WfzGCjkjgZodzlpfJRxUw?authuser=2)
 
 | Condición         | Señal Crudo     | Señal Filtrada  |
 |-------------------|------------------|------------------|
