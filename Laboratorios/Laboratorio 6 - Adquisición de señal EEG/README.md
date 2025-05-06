@@ -56,13 +56,13 @@ En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda s
   3. **Condiciones de obtención de señal:**  
      Para la obtención de las señales, el sujeto de estudio se mantuvo en posición de sedestación, la cual fue asegurada por los investigadores para garantizar condiciones estables durante el registro. A continuación, se detallan las diferentes condiciones bajo las cuales se realizaron las mediciones:
      
-| **Condición de Registro**         | **Descripción**                                                                                                          | **Duración**   |
-|----------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------|
-| **Basal 1 (Ojos abiertos)**      | El sujeto en sedestación fijó la mirada en un punto con los ojos abiertos.                                               | 1 minuto       |
-| **Basal 2 (Ojos cerrados)**      | El sujeto cerró los ojos en un entorno oscuro controlado por los investigadores.                                         | 1 minuto       |
-| **Tarea cognitiva**              | El sujeto realizó una tarea de resta en silencio (restar 7 desde 100).                                                   | 2 minutos      |
-| **Estudio de artefactos**        | El sujeto parpadeó y masticó simultáneamente.                                                                            | 2 minutos      |
-| **Estudio libre**                | El sujeto realizó cálculos mentales que requerían un alto grado de concentración.                                        | 6 minutos      |
+| **Condición de Registro**         | **Descripción**                                                                                                          | **Duración**   | Video 🎥                            |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------|----------------|
+| **Basal 1 (Ojos abiertos)**      | El sujeto en sedestación fijó la mirada en un punto con los ojos abiertos.                                               | 1 minuto       | [Ver video](https://drive.google.com/open?id=1LvtS8r27x5AgJG6-yOvjHOyyRgxxsa7i&authuser=2) |
+| **Basal 2 (Ojos cerrados)**      | El sujeto cerró los ojos en un entorno oscuro controlado por los investigadores.                                         | 1 minuto       | [Ver video](https://drive.google.com/file/d/1TmDENaMDgivwi2kcrqaBgaxmpZs0OKhk/view) |
+| **Tarea cognitiva**              | El sujeto realizó una tarea de resta en silencio (restar 7 desde 100).                                                   | 2 minutos      | [Ver video](https://drive.google.com/file/d/1Eino-YOylnYCtng-J9aJxzAXw3ezCoSP/view) |
+| **Estudio de artefactos**        | El sujeto parpadeó y masticó simultáneamente.                                                                            | 2 minutos      | [Ver video](https://drive.google.com/open?id=1rk5QMz_O7G3dB8E1UUEAszwiFlOnf1Vc&authuser=2) |
+| **Estudio libre**                | El sujeto realizó cálculos mentales que requerían un alto grado de concentración.                                        | 6 minutos      | [Ver video](https://drive.google.com/file/d/1jhYdEtm0HjgjWGAc1BYggh0QH5GHXV2H/view) |
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
 
@@ -102,16 +102,16 @@ Se presenta la tabla que muestra las señales antes y después de ser procesadas
 ![](Imagenes_L6/contabilizar_artefactos.jpg)
 
 2. **Discusión**
-   - **¿Qué banda de frecuencia predomina al cerrar los ojos?**
+   - **¿Qué banda de frecuencia predomina al cerrar los ojos?**  
      La frecuencia de las ondas delta según Nayak en “Formas de onda normales del EEG” corresponden a un intervalo de 0.5 a 4 Hz, mientras que las ondas beta corresponden a los valores entre 13 a 30 Hz. Durante el estudio, en la lectura de los datos de los ojos abiertos predominaron las bandas de frecuencia Beta, mientras que en los ojos cerrados predominaron las bandas de frecuencia Delta (4).
 
-   - **¿Qué filtro es imprescindible para EEG y por qué?**
+   - **¿Qué filtro es imprescindible para EEG y por qué?**  
      Para el electroencefalograma es imprescindible el uso de filtros pasa banda, pues esto filtra el ruido de la señal producida por la amplificación, el filtro del hardware mencionado en la guia fue de un pasabanda de 0.8 a 48 Hz, estos valores del filtro logran suprimir suprimir artefactos de DC los cuales tienen frecuencias muy bajas y frecuencias altas por encima de 50 Hz, donde estas frecuencias corresponden a las señales electromiográficas como los son las actividades musculares de parpadeo y la frecuencia de la corriente alterna 60 Hz.(5)
 
-   - **¿Puedes modular conscientemente tu señal EEG? Da un ejemplo.**
+   - **¿Puedes modular conscientemente tu señal EEG? Da un ejemplo.**  
 Se puede modular conscientemente la señal EEG a partir de la meditación, estudios demuestran que durante la Paced Breathing, un tipo de meditación Su-Soku, se produce una alteración en los parámetros del EEG, donde aumentan las ondas de baja y alta frecuencia de alpha (8-13 Hz) y decrece el potencial en ondas theta (4-8 Hz). Dentro del estudio, se logró evaluar la actividad theta la cual mejora continuamente de manera significativa en las fases secuenciales de la meditación, mientras que la actividad alfa es significativa durante la fase media avanzada (6,7)
 
-   - **¿Se observan diferencias entre Fp1 y Fp2? ¿Por qué podrían ocurrir?**
+   - **¿Se observan diferencias entre Fp1 y Fp2? ¿Por qué podrían ocurrir?**  
  En un EEG es común observar diferencias entre Fp1 y Fp2 debido a la lateralización funcional del cerebro, especialmente en el procesamiento emocional. Un estudio de 2023 encontró que la actividad alfa en Fp2 se asoció con emociones positivas como la felicidad, mientras que una mayor actividad en Fp1 se vinculó con emociones negativas como tristeza y miedo, lo cual respalda el modelo de asimetría frontal afectiva (8). Asimismo, una revisión sistemática reciente indicó que la asimetría frontal alfa (FAA), incluyendo Fp1 y Fp2, podría servir como biomarcador complementario en trastornos afectivos como la depresión, aunque con efecto pequeño y alta heterogeneidad entre estudios (9).
 
    
