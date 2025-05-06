@@ -62,7 +62,7 @@ En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda s
 | **Basal 2 (Ojos cerrados)**      | El sujeto cerró los ojos en un entorno oscuro controlado por los investigadores.                                         | 1 minuto       | [Ver video](https://drive.google.com/file/d/1TmDENaMDgivwi2kcrqaBgaxmpZs0OKhk/view) |
 | **Tarea cognitiva**              | El sujeto realizó una tarea de resta en silencio (restar 7 desde 100).                                                   | 2 minutos      | [Ver video](https://drive.google.com/file/d/1Eino-YOylnYCtng-J9aJxzAXw3ezCoSP/view) |
 | **Estudio de artefactos**        | El sujeto parpadeó y masticó simultáneamente.                                                                            | 2 minutos      | [Ver video](https://drive.google.com/open?id=1rk5QMz_O7G3dB8E1UUEAszwiFlOnf1Vc&authuser=2) |
-| **Estudio libre**                | El sujeto realizó cálculos mentales que requerían un alto grado de concentración.                                        | 6 minutos      | [Ver video](https://drive.google.com/file/d/1jhYdEtm0HjgjWGAc1BYggh0QH5GHXV2H/view) |
+| **Estudio libre**                | El sujeto realizó cálculos mentales (preguntas matemáticas simples y complejas) que requerían un alto grado de concentración.                                        | 6 minutos      | [Ver video](https://drive.google.com/file/d/1jhYdEtm0HjgjWGAc1BYggh0QH5GHXV2H/view) |
 
  ## 4. Resultados y limitaciones <a name="n4"></a>
 
@@ -96,12 +96,15 @@ Se presenta la tabla que muestra las señales antes y después de ser procesadas
 | Libre             | ![](Imagenes_L6/senal_libre_PSD.jpg)  | 
 
 **Evaluar incremento de β durante la tarea cognitiva (t‑test pareado)**
-![](Imagenes_L6/incremento_beta.jpg)
+![](Imagenes_L6/incremento_beta.png)  
+En la comparación de la potencia relativa en la banda Beta (13–30 Hz) entre condiciones de reposo y tarea cognitiva en el canal Fp1, se observó un resultado inesperado: la potencia fue mayor en reposo (11.39%) que durante la tarea cognitiva (7.28%), sin diferencias estadísticamente significativas (p = 0.383). Este resultado podría explicarse por factores como la elección del segmento analizado, la presencia de artefactos en la condición de reposo, o la baja participación activa del sujeto durante la tarea. Idealmente, se esperaría un incremento de actividad Beta en tareas cognitivas debido a la mayor activación cortical.
 
 **Detectar artefactos de parpadeo (> 80 μV) y contabilizar su número**
-![](Imagenes_L6/contabilizar_artefactos.jpg)
+Número de parpadeo detectados: **156**
+![](Imagenes_L6/contabilizar_artefactos.png)  
+Se identificaron múltiples artefactos de parpadeo, definidos por amplitudes superiores a ±80 μV, durante un periodo de 30 segundos. En el gráfico se observan estos eventos marcados en color rojo y distribuidos a lo largo del registro de la señal EEG filtrada. Esta detección concuerda con lo esperado, ya que el sujeto estuvo realizando parpadeos voluntarios durante la tercera condición del experimento.
 
-2. **Discusión**
+2. **Discusión:**
    - **¿Qué banda de frecuencia predomina al cerrar los ojos?**  
      La frecuencia de las ondas delta según Nayak en “Formas de onda normales del EEG” corresponden a un intervalo de 0.5 a 4 Hz, mientras que las ondas beta corresponden a los valores entre 13 a 30 Hz. Durante el estudio, en la lectura de los datos de los ojos abiertos predominaron las bandas de frecuencia Beta, mientras que en los ojos cerrados predominaron las bandas de frecuencia Delta (4).
 
@@ -115,7 +118,7 @@ Se puede modular conscientemente la señal EEG a partir de la meditación, estud
  En un EEG es común observar diferencias entre Fp1 y Fp2 debido a la lateralización funcional del cerebro, especialmente en el procesamiento emocional. Un estudio de 2023 encontró que la actividad alfa en Fp2 se asoció con emociones positivas como la felicidad, mientras que una mayor actividad en Fp1 se vinculó con emociones negativas como tristeza y miedo, lo cual respalda el modelo de asimetría frontal afectiva (8). Asimismo, una revisión sistemática reciente indicó que la asimetría frontal alfa (FAA), incluyendo Fp1 y Fp2, podría servir como biomarcador complementario en trastornos afectivos como la depresión, aunque con efecto pequeño y alta heterogeneidad entre estudios (9).
 
    
-3. **Limitaciones**
+3. **Limitaciones:**
    - **Condiciones de iluminación**:
      Una de las limitaciones fue no haber podido realizar la actividad en un área completamente oscura. Como alternativa, se taparon los ojos del sujeto con una casaca para simular esa condición. Sin embargo, esto pudo haber causado contacto directo entre los electrodos y la prenda, además de una presión adicional que podría haber generado ruido en la señal.
    - **Distracciones e interrupciones externas:**
