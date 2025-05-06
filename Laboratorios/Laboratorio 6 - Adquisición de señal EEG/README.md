@@ -64,9 +64,17 @@ En cuanto al polo positivo el electrodo se ubica en la parte frontal izquierda s
 | **Estudio de artefactos**        | El sujeto parpadeó y masticó simultáneamente.                                                                            | 2 minutos      |
 | **Estudio libre**                | El sujeto realizó cálculos mentales que requerían un alto grado de concentración.                                        | 6 minutos      |
 
-
-  5. 
-
  ## 4. Resultados y limitaciones <a name="n4"></a>
+
+ 1. **Resultados**
+Se presenta la tabla que muestra las señales antes y después de ser procesadas mediante un filtro pasabanda con un rango de frecuencias de 0.8 Hz a 48 Hz.
+
+| Condición         | Señal Crudo     | Señal Filtrada  |
+|-------------------|------------------|------------------|
+| Basal 1           | ![](Imagenes_L6/senal_cruda_fijo.jpg) | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
+| Basal 2           | ![](Imagenes_L6/senal_cruda_cerrados.jpg) | ![](Imagenes_L6/senal_filtrada_cerrados.jpg) |
+| Tarea cognitiva   | ![](Imagenes_L6/senal_cruda_contar.jpg)  | ![](Imagenes_L6/senal_filtrada_contar.jpg)  |
+| Artefactos        | ![](Imagenes_L6/senal_cruda_artefactos.jpg) | ![](Imagenes_L6/senal_filtrada_artefactos.jpg) |
+| Libre             | ![](Imagenes_L6/senal_cruda_libre.jpg)  | ![](Imagenes_L6/senal_filtrada_libre.jpg)  |
 
  ## 5. Referencias bibliográficas <a name="n5"></a>
