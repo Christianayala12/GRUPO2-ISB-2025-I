@@ -15,7 +15,7 @@
 |-------------------|------------------|------------------|------------------|
 | Descanso           | ![](Imagenes_L6/senal_cruda_fijo.jpg) | ![](Imagenes_L6/senal_filtrada_fijo.jpg) | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
 | Contracción leve   | ![](Imagenes_L6/senal_cruda_cerrados.jpg) | ![](Imagenes_L6/senal_filtrada_cerrados.jpg) | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
-| Contracción fuerte | ![](Imagenes_L6/senal_cruda_contar.jpg)  | ![](Imagenes_L6/senal_filtrada_contar.jpg)  | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
+| Contracción fuerte | ![](Laboratorios/Laboratorio 7 - Filtros FIR e IIR/IMAGENES DE FILTROS/EMG/FIR/fuerza.png)  | ![](Imagenes_L6/senal_filtrada_contar.jpg)  | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
 
 
  ## 3. EEG <a name="n3"></a>
