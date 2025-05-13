@@ -11,6 +11,29 @@
 
  ## 2. EMG <a name="n2"></a>
 
+### **Objetivo:**
+Procesar las señales EMG para reducir el ruido y los artefactos, enfocándose en resaltar la actividad muscular relevante.
+
+### **Procesamiento:**
+
+1. **Filtro FIR**
+   - Objetivo: Aislar la banda de frecuencia de interés que corresponde a la actividad muscular.
+   - Métodos de ventana: **Hamming y Blackman**.
+   - Especificaciones sugeridas:
+     - **Frecuencia de corte (Fc): 40 Hz**. Solo las frecuencias asociadas a la actividad muscular (por debajo de 40 Hz) se mantienen.
+     - **Pasabanda bajo**
+
+     
+3. **Filtro IIR**
+   - Objetivo: Eliminar las frecuencias altas asociadas a ruido eléctrico y artefactos de movimiento que interfieren con la señal EMG.
+   - Filtros usados: **Butterworth y Chebyshev tipo I**
+   - Especificaciones sugeridas:
+     - **Frecuencia de corte (Fc): 60 Hz**, corresponde al ruido eléctrico y los artefactos de movimiento.
+     - **Frecuencia de paso (Wp): 188 rad/s (30 Hz)**. Permite el paso de las frecuencias de interés, que son las frecuencias más bajas de la señal EMG.
+     - **Frecuencia de atenuación (Ws): 300 rad/s (47.75 Hz)**. Define la frecuencia a partir de la cual las señales no deseadas se atenúan de forma significativa.
+   
+
+
 | Campo de Actividad| Señal Cruda     | Filtros FIR         | Filtros IIR     |
 |-------------------|------------------|------------------|------------------|
 | Descanso           | ![](imagenes_filtros/EMG/FIR/reposo.png) | ![](imagenes_filtros/EMG/FIR/reposo_blackman.png) ![](imagenes_filtros/EMG/FIR/reposo_hamming.png)| ![](imagenes_filtros/EMG/IIR/REPOSO_BUTTER.png) ![](imagenes_filtros/EMG/IIR/REPOSO_CHEBY.png)|
