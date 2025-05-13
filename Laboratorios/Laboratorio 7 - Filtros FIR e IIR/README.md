@@ -25,7 +25,7 @@ Primero, en la **ventana Blackman** se muestra una atenuación más pronunciada 
 Sin embargo, en general, ambos filtros cumplen con el objetivo planteado, el cual es aislar la banda de actividad muscular, pero el filtro con ventana Blackman resulta más eficiente en la supresión de ruido de alta frecuencia.
 
  ### Comparación con filtros IIR
-![](imagenes_filtros/EMG/IIR/BUTTER_VS_CHEBY2.png)|
+![](imagenes_filtros/EMG/IIR/BUTTER_VS_CHEBY2.png)
 
 A pesar de que los filtros comparten las mismas especificaciones de diseño, se observan variaciones en sus respuestas espectrales. La señal filtrada con el **filtro Butterworth** presenta una transición suave entre la banda pasante y la banda de rechazo, con una atenuación gradual de las frecuencias más altas, sin generar rizado ni distorsión aparente. En contraste, el **filtro Chebyshev tipo I** ofrece una caída más abrupta en la banda de rechazo; sin embargo, este rendimiento viene acompañado de ondulaciones o rizado en la banda pasante, visibles especialmente en las frecuencias iniciales, lo que puede introducir cierta distorsión en la señal dentro del rango útil. En conclusión, el **filtro Butterworth** ofrece una respuesta más suave, ideal para aplicaciones donde la calidad de la señal es crítica ya que no atenúa de manera agresiva. En contraste, el **filtro Chebyshev tipo I** se destaca por su eficiencia en la eliminación de ruido pero puede introducir distorsión en la banda pasante.
 
