@@ -11,6 +11,11 @@
 
  ## 2. EMG <a name="n2"></a>
 
+| Campo de Actividad   | Señal Cruda     | Filtro FIR  | Filtro IIR  |
+|-------------------|------------------|------------------|------------------|
+| Descanso           | ![](Imagenes_L6/senal_cruda_fijo.jpg) | ![](Imagenes_L6/senal_filtrada_fijo.jpg) | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
+| Contracción leve   | ![](Imagenes_L6/senal_cruda_cerrados.jpg) | ![](Imagenes_L6/senal_filtrada_cerrados.jpg) | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
+| Contracción fuerte | ![](Imagenes_L6/senal_cruda_contar.jpg)  | ![](Imagenes_L6/senal_filtrada_contar.jpg)  | ![](Imagenes_L6/senal_filtrada_fijo.jpg) |
 
 
  ## 3. EEG <a name="n3"></a>
