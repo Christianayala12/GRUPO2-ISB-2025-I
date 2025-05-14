@@ -77,6 +77,19 @@ Preprocesar las señales EEG para reducir el ruido y extraer caracteristicas de 
 |-------------------|------------------|------------------|------------------|
 | Basal           |<img width="832" alt="Captura de pantalla 2025-05-14 a la(s) 08 09 38" src="https://github.com/user-attachments/assets/6a0b619e-8008-4ece-80aa-f6df93b9da32" />|<img width="827" alt="Captura de pantalla 2025-05-14 a la(s) 08 12 57" src="https://github.com/user-attachments/assets/7ec9270d-6a3c-49a3-ba57-a2139a74e0ff" />|<img width="653" alt="Captura de pantalla 2025-05-14 a la(s) 08 11 34" src="https://github.com/user-attachments/assets/8c003433-5b20-4c9e-90af-8dc9c1dd2e60" />|
 | Ojos Cerrados   |<img width="828" alt="Captura de pantalla 2025-05-14 a la(s) 08 15 01" src="https://github.com/user-attachments/assets/d4f20308-cd17-44a8-be70-8273c4a5a98d" />|<img width="824" alt="Captura de pantalla 2025-05-14 a la(s) 08 16 23" src="https://github.com/user-attachments/assets/424ee51e-8982-47f2-8afa-bf6a6bcfda3a" />| <img width="643" alt="Captura de pantalla 2025-05-14 a la(s) 08 15 38" src="https://github.com/user-attachments/assets/c6a1fe3e-774e-4152-aa92-984899d1cec5" />|
-| Preguntas |<img width="837" alt="Captura de pantalla 2025-05-14 a la(s) 08 18 20" src="https://github.com/user-attachments/assets/e06bfa5e-bb0c-470e-8cee-79e7def091a3" />|<img width="833" alt="Captura de pantalla 2025-05-14 a la(s) 08 19 05" src="https://github.com/user-attachments/assets/f232c013-35d6-4fcc-909c-a24a78014302" />|<img width="661" alt="Captura de pantalla 2025-05-14 a la(s) 08 18 39" src="https://github.com/user-attachments/assets/91dcda1a-7deb-4fb4-ab56-76091eb97950" />
-|
+| Preguntas |<img width="837" alt="Captura de pantalla 2025-05-14 a la(s) 08 18 20" src="https://github.com/user-attachments/assets/e06bfa5e-bb0c-470e-8cee-79e7def091a3" />|<img width="833" alt="Captura de pantalla 2025-05-14 a la(s) 08 19 05" src="https://github.com/user-attachments/assets/f232c013-35d6-4fcc-909c-a24a78014302" />|<img width="661" alt="Captura de pantalla 2025-05-14 a la(s) 08 18 39" src="https://github.com/user-attachments/assets/91dcda1a-7deb-4fb4-ab56-76091eb97950" />|
 
+ ### Comparación de filtros FIR
+
+|Basal     | Ojos Cerrados         | Preguntas     |
+|------------------|------------------|------------------|
+|<img width="391" alt="Captura de pantalla 2025-05-14 a la(s) 08 59 01" src="https://github.com/user-attachments/assets/d32f4b68-c072-4bbe-b1b4-d04b481e8c19" />|<img width="394" alt="Captura de pantalla 2025-05-14 a la(s) 08 59 22" src="https://github.com/user-attachments/assets/365417eb-a294-4d8f-accc-995f4943da5b" />|<img width="395" alt="Captura de pantalla 2025-05-14 a la(s) 08 59 36" src="https://github.com/user-attachments/assets/60047860-1c03-479f-b0d0-ffbf219d7000" />|
+
+adalksmdlaks **ventana Hamming** 
+
+ ### Comparación con filtros IIR
+|Basal     | Ojos Cerrados         | Preguntas     |
+|------------------|------------------|------------------|
+|<img width="396" alt="Captura de pantalla 2025-05-14 a la(s) 08 53 31" src="https://github.com/user-attachments/assets/5ac1a355-983a-4293-b97d-a245df09dd12" />|<img width="390" alt="Captura de pantalla 2025-05-14 a la(s) 08 54 09" src="https://github.com/user-attachments/assets/f2e6639b-041f-4175-b6f3-515409cd4e35" />|<img width="395" alt="Captura de pantalla 2025-05-14 a la(s) 08 54 31" src="https://github.com/user-attachments/assets/cedf4149-5c8b-4310-abad-0b0a74209cd0" />|
+
+laksmdlaksmd **filtro Butterworth** 
