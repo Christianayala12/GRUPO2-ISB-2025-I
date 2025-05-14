@@ -41,13 +41,13 @@ Procesar las señales ECG para reducir el ruido y los artefactos, enfocándose e
 | Contracción fuerte | ![](imagenes_filtros/EMG/FIR/fuerza.png)  | ![](imagenes_filtros/EMG/FIR/fuerza_blackman.png) ![](imagenes_filtros/EMG/FIR/fuerza_hamming.png) | ![](imagenes_filtros/EMG/IIR/FUERZA_BUTTER.png) ![](imagenes_filtros/EMG/IIR/FUERZA_CHEBY.png)|
 
  ### Comparación de filtros FIR
- ![](imagenes_filtros/EMG/FIR/respuesta_en_db_FIR.jpg)
+ ![](imagenes_filtros/ECG/FIR/respuesta_en_db_FIR.jpg)
 
 En la comparación entre los filtros FIR diseñados con ventanas Hamming y Hanning para el procesamiento de señales ECG, se observa que el filtro con ventana Hamming presenta una transición más abrupta y una mayor atenuación en la banda de parada (\~60 dB), lo que lo hace más efectivo para eliminar ruido de alta frecuencia, como interferencias eléctricas o artefactos musculares. En cambio, la ventana Hanning ofrece una transición más suave pero con menor capacidad de rechazo fuera de banda (\~45 dB), lo que puede permitir el paso de componentes no deseados. Dado que en el análisis de ECG es crucial conservar la forma de onda y minimizar el ruido que pueda afectar la interpretación de intervalos clínicos como PR, QRS o QT, el uso de la ventana Hamming resulta más apropiado, ya que proporciona una mejor supresión del ruido sin distorsionar la señal fisiológica.
 
 
  ### Comparación con filtros IIR
-![](imagenes_filtros/EMG/IIR/Respuesta_frecuencia_IIR.jpg)
+![](imagenes_filtros/ECG/IIR/Respuesta_frecuencia_IIR.jpg)
 
 Antes de aplicar el filtro a cada señal, se hizo una comparación de su respuesta en frecuencia y el porque nos sirve cada uno. Primero vimos que el filtro Chebyshev tuvo unas ondulaciones previas a su brusca caída mientras que el filtro Butterworth mostro una caída más atenuada y larga, sin esas ondulaciones en la frecuencia de corte. Para este caso particular es más recomendable usar el filtro Chebyshev, pues no nos afecta tanto ese retraso del filtro en la señal con respecto a las otras frecuencias debido a que el ruido también tiene una forma amplia que llega hasta los 200 Hz. Por otro lado el filtro Chebyshev podría habernos sido más útil en caso de notar mucho ruido debido a las corrientes por ejemplo, que está en 60 Hz y podríamos haber necesitado un corte más abrupto para no tener problemas con nuestra señal. Igualmente como se vio en ambas señalas filtradas, debido al grado de los filtros probados, no hubo mucha diferencia entre ambos, sin embargo al buscar ampliar este grado si podría a llegar a notarse esas diferencias mencionadas y en todo caso buscar el criterio que mejor se hubiera creído
 
