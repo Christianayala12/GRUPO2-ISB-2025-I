@@ -54,6 +54,25 @@ A pesar de que los filtros comparten las mismas especificaciones de diseño, se 
 
  ## 3. EEG <a name="n3"></a>
 
+### **Objetivo:**
+Preprocesar las señales EEG para reducir el ruido y extraer caracteristicas de interes como ondas cerebrales especificas.
+
+### **Procesamiento:**
+
+1. **Filtro IIR**
+   - Filtro: Butterworth
+   - Métodos de ventana: **Hamming**.
+   - Especificaciones sugeridas:
+     - **Frecuencia de corte (Fc): 30 Hz**. Solo las frecuencias asociadas a la actividad cerebral (por debajo de 30 Hz) se mantienen.
+     - **Pasabajos**
+     - **Frecuencia de paso (Wp): 188 rad/s (30 Hz)**. Permite el paso de las frecuencias de interés, que son las frecuencias más bajas de la señal EMG.
+     - **Frecuencia de atenuación (Ws): 300 rad/s (47.75 Hz)**. Define la frecuencia a partir de la cual las señales no deseadas se atenúan de forma significativa.
+
+2. **Filtro FIR**
+   - Objetivo: Extraer bandas de frecuencia especificas (alfa, beta, etc.).
+   - Filtros usados: **Hamming**
+   - Especificaciones sugeridas:
+     - **Frecuencias de corte (Fc): 8-12 Hz**, pasa banda para ondas alfa.
 
 
 
