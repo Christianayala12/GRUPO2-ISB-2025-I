@@ -36,9 +36,9 @@ Procesar las señales ECG para reducir el ruido y los artefactos, enfocándose e
 
 | Campo de Actividad| Señal Cruda     | Filtros FIR         | Filtros IIR     |
 |-------------------|------------------|------------------|------------------|
-| Descanso           | ![](imagenes_filtros/EMG/FIR/reposo.png) | ![](imagenes_filtros/EMG/FIR/reposo_blackman.png) ![](imagenes_filtros/EMG/FIR/reposo_hamming.png)| ![](imagenes_filtros/EMG/IIR/REPOSO_BUTTER.png) ![](imagenes_filtros/EMG/IIR/REPOSO_CHEBY.png)|
-| Contracción leve   | ![](imagenes_filtros/EMG/FIR/movimiento.png) | ![](imagenes_filtros/EMG/FIR/movimiento_blackman.png) ![](imagenes_filtros/EMG/FIR/movimiento_hamming.png)| ![](imagenes_filtros/EMG/IIR/MOVIMIENTO_BUTTER.png) ![](imagenes_filtros/EMG/IIR/MOVIMIENTO_CHEBY.png)|
-| Contracción fuerte | ![](imagenes_filtros/EMG/FIR/fuerza.png)  | ![](imagenes_filtros/EMG/FIR/fuerza_blackman.png) ![](imagenes_filtros/EMG/FIR/fuerza_hamming.png) | ![](imagenes_filtros/EMG/IIR/FUERZA_BUTTER.png) ![](imagenes_filtros/EMG/IIR/FUERZA_CHEBY.png)|
+| Descanso           | ![](imagenes_filtros/ECG/IIR/Cruda_Basal.jpeg) | ![](imagenes_filtros/ECG/FIR/FIR_BASAL_hamming.jpg) ![](imagenes_filtros/ECG/FIR/FIR_BASAL_hanning.jpg)| ![](imagenes_filtros/EMG/IIR/REPOSO_BUTTER.png) ![](imagenes_filtros/EMG/IIR/REPOSO_CHEBY.png)|
+| Contracción leve   | ![](imagenes_filtros/ECG/IIR/Cruda_Respiracion.jpeg) | ![](imagenes_filtros/ECG/FIR/FIR_RESPIRACION_hamming.jpg) ![](imagenes_filtros/ECG/FIR/FIR_RESPIRACION_hanning.jpg)| ![](imagenes_filtros/EMG/IIR/MOVIMIENTO_BUTTER.png) ![](imagenes_filtros/EMG/IIR/MOVIMIENTO_CHEBY.png)|
+| Contracción fuerte | ![](imagenes_filtros/ECG/IIR/Cruda_ejercicio.jpeg)  | ![](imagenes_filtros/ECG/FIR/FIR_EJERCICIO_hamming.jpg) ![](imagenes_filtros/ECG/FIR/FIR_EJERCICIO_hanning.jpg) | ![](imagenes_filtros/EMG/IIR/FUERZA_BUTTER.png) ![](imagenes_filtros/EMG/IIR/FUERZA_CHEBY.png)|
 
  ### Comparación de filtros FIR
  ![](imagenes_filtros/ECG/FIR/respuesta_en_db_FIR.jpg)
