@@ -24,7 +24,7 @@ Procesar las señales EMG para reducir el ruido y los artefactos, enfocándose e
      - **Pasabanda bajo**
 
      
-3. **Filtro IIR**
+2. **Filtro IIR**
    - Objetivo: Eliminar las frecuencias altas asociadas a ruido eléctrico y artefactos de movimiento que interfieren con la señal EMG.
    - Filtros usados: **Butterworth y Chebyshev tipo I**
    - Especificaciones sugeridas:
@@ -61,7 +61,6 @@ Preprocesar las señales EEG para reducir el ruido y extraer caracteristicas de 
 
 1. **Filtro IIR**
    - Filtro: Butterworth
-   - Métodos de ventana: **Hamming**.
    - Especificaciones sugeridas:
      - **Frecuencia de corte (Fc): 30 Hz**. Solo las frecuencias asociadas a la actividad cerebral (por debajo de 30 Hz) se mantienen.
      - **Pasabajos**
@@ -74,5 +73,10 @@ Preprocesar las señales EEG para reducir el ruido y extraer caracteristicas de 
    - Especificaciones sugeridas:
      - **Frecuencias de corte (Fc): 8-12 Hz**, pasa banda para ondas alfa.
 
-
+| Campo de Actividad| Señal Cruda     | Filtros FIR         | Filtros IIR     |
+|-------------------|------------------|------------------|------------------|
+| Basal           |<img width="832" alt="Captura de pantalla 2025-05-14 a la(s) 08 09 38" src="https://github.com/user-attachments/assets/6a0b619e-8008-4ece-80aa-f6df93b9da32" />|<img width="827" alt="Captura de pantalla 2025-05-14 a la(s) 08 12 57" src="https://github.com/user-attachments/assets/7ec9270d-6a3c-49a3-ba57-a2139a74e0ff" />|<img width="653" alt="Captura de pantalla 2025-05-14 a la(s) 08 11 34" src="https://github.com/user-attachments/assets/8c003433-5b20-4c9e-90af-8dc9c1dd2e60" />|
+| Ojos Cerrados   |<img width="828" alt="Captura de pantalla 2025-05-14 a la(s) 08 15 01" src="https://github.com/user-attachments/assets/d4f20308-cd17-44a8-be70-8273c4a5a98d" />|<img width="824" alt="Captura de pantalla 2025-05-14 a la(s) 08 16 23" src="https://github.com/user-attachments/assets/424ee51e-8982-47f2-8afa-bf6a6bcfda3a" />| <img width="643" alt="Captura de pantalla 2025-05-14 a la(s) 08 15 38" src="https://github.com/user-attachments/assets/c6a1fe3e-774e-4152-aa92-984899d1cec5" />|
+| Preguntas |<img width="837" alt="Captura de pantalla 2025-05-14 a la(s) 08 18 20" src="https://github.com/user-attachments/assets/e06bfa5e-bb0c-470e-8cee-79e7def091a3" />|<img width="833" alt="Captura de pantalla 2025-05-14 a la(s) 08 19 05" src="https://github.com/user-attachments/assets/f232c013-35d6-4fcc-909c-a24a78014302" />|<img width="661" alt="Captura de pantalla 2025-05-14 a la(s) 08 18 39" src="https://github.com/user-attachments/assets/91dcda1a-7deb-4fb4-ab56-76091eb97950" />
+|
 
