@@ -53,13 +53,30 @@ Finalmente los parámetros que se analizaron fueron:
 #### Resultados:  
 
 Primer data set:  
-IMAGENES  
+<div align="center">
+        <img src="./imagenes/Tabla_data1.png" alt="Tabla1 " width="35%">
+        <p><strong>Tabla 1:</strong> Resultados de la aplicación de filtros wavelet al primer conjunto de datos, sin preprocesamiento con un filtro de Fourier pasa bajo. </p>
+      </div> 
+
+<div align="center">
+        <img src="./imagenes/Tabla_data1.2.png" alt="Tabla1 " width="35%">
+        <p><strong>Tabla 2:</strong> Resultados de la aplicación de filtros wavelet al primer conjunto de datos, con preprocesamiento utilizando un filtro de Fourier pasa bajo. </p>
+      </div> 
 
 Segundo Data set:  
-IMAGENES  
+
+<div align="center">
+        <img src="./imagenes/Tabla_data2.png" alt="Tabla1 " width="35%">
+        <p><strong>Tabla 3:</strong> Resultados de la aplicación de filtros wavelet al segundo conjunto de datos. </p>
+      </div> 
+
 
 Comparación final de niveles con el 1er data set:  
-IAMGEN
+<div align="center">
+        <img src="./imagenes/Tabla3.png" alt="Tabla1 " width="35%">
+        <p><strong>Tabla 4:</strong> Resultados de la limpieza de la señal con el filtro wavelet SYM5 en varios niveles de descomposición. </p>
+      </div> 
+
 
 #### Discusión:  
 Como se puede observar en las primera tres tablas, el que tuvo mejor resultado fue la wavelet SYM5 de nivel 2 que obtuvo el menor MSE,
@@ -96,14 +113,18 @@ cuál ofrece el mejor desempeño en la eliminación de ruido en señales EMG de 
 #### Resultados y discusión:  
 La representación gráfica de la señal EMG ruidosa y de la señal EMG tras eliminar el ruido se muestra en las figuras a continuación.
 La programación se realizó en MATLAB.  
-
-Señal ruidosa:  
-IMAGEN  
+ 
+<div align="center">
+        <img src="./imagenes/emg_ruido.png" alt="Tabla1 " width="50%">
+        <p><strong>Figura 1:</strong> Señal ruidosa original </p>
+      </div> 
 
 Señales filtradas con las 3 familias en el 6° nivel:  
-IMAGEN  
 
-TABLA  
+| Daubechies2 - 6°nivel        | Symlet2 - 6°nivel   | Coiflet2 - 6°nivel |
+|-------------------|------------------|------------------|
+| ![](imagenes/Daubechies2_6nivel.png)| ![](imagenes/Symlet2_6nivel.png) | ![](imagenes/coiflet2_6nivel.png) |
+
 
 Coiflet2 superó consistentemente a las demás, obteniendo los mayores valores de SNR (22.04 dB en 4° nivel, 22.44 dB en 5° y 22.49 dB en 6°), 
 mientras que Daubechies2 y Symlet2 obtuvieron resultados idénticos pero inferiores (21.37 dB, 21.68 dB y 21.73 dB respectivamente).  
