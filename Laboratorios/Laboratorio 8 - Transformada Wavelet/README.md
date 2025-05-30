@@ -55,26 +55,26 @@ Finalmente los parámetros que se analizaron fueron:
 Primer data set:  
 <div align="center">
         <img src="./imagenes/Tabla_data1.png" alt="Tabla1 " width="35%">
-        <p><strong>Tabla 1:</strong> Resultados de la aplicación de filtros wavelet al primer conjunto de datos, sin preprocesamiento con un filtro de Fourier pasa bajo. </p>
+        <p><strong>Tabla 1:</strong> Resultados de la aplicación de filtros wavelet al primer conjunto de datos, sin preprocesamiento con un filtro de Fourier pasa bajo. [2] </p>
       </div> 
 
 <div align="center">
         <img src="./imagenes/Tabla_data1.2.png" alt="Tabla1 " width="35%">
-        <p><strong>Tabla 2:</strong> Resultados de la aplicación de filtros wavelet al primer conjunto de datos, con preprocesamiento utilizando un filtro de Fourier pasa bajo. </p>
+        <p><strong>Tabla 2:</strong> Resultados de la aplicación de filtros wavelet al primer conjunto de datos, con preprocesamiento utilizando un filtro de Fourier pasa bajo. [2] </p>
       </div> 
 
 Segundo Data set:  
 
 <div align="center">
         <img src="./imagenes/Tabla_data2.png" alt="Tabla1 " width="35%">
-        <p><strong>Tabla 3:</strong> Resultados de la aplicación de filtros wavelet al segundo conjunto de datos. </p>
+        <p><strong>Tabla 3:</strong> Resultados de la aplicación de filtros wavelet al segundo conjunto de datos. [2] </p>
       </div> 
 
 
 Comparación final de niveles con el 1er data set:  
 <div align="center">
         <img src="./imagenes/Tabla3.png" alt="Tabla1 " width="35%">
-        <p><strong>Tabla 4:</strong> Resultados de la limpieza de la señal con el filtro wavelet SYM5 en varios niveles de descomposición. </p>
+        <p><strong>Tabla 4:</strong> Resultados de la limpieza de la señal con el filtro wavelet SYM5 en varios niveles de descomposición. [2] </p>
       </div> 
 
 
@@ -116,7 +116,7 @@ La programación se realizó en MATLAB.
  
 <div align="center">
         <img src="./imagenes/emg_ruido.png" alt="Tabla1 " width="50%">
-        <p><strong>Figura 1:</strong> Señal ruidosa original </p>
+        <p><strong>Figura 1:</strong> Señal ruidosa original [5] </p>
       </div> 
 
 Señales filtradas con las 3 familias en el 6° nivel:  
@@ -125,11 +125,19 @@ Señales filtradas con las 3 familias en el 6° nivel:
 |-------------------|------------------|------------------|
 | ![](imagenes/Daubechies2_6nivel.png)| ![](imagenes/Symlet2_6nivel.png) | ![](imagenes/coiflet2_6nivel.png) |
 
+<div align="center">
+        <img src="./imagenes/Tabla_SNR_EMG.png" alt="Tabla1 " width="35%">
+        <p><strong>Tabla 5:</strong> Comparación de la relación señal-ruido (dB) de la señal EMG de un sujeto sano después de la descomposición en los niveles 4, 5 y 6 utilizando las wavelets Daubechies2, Symlet2 y Coiflet2 [5] </p>
+      </div> 
 
 Coiflet2 superó consistentemente a las demás, obteniendo los mayores valores de SNR (22.04 dB en 4° nivel, 22.44 dB en 5° y 22.49 dB en 6°), 
 mientras que Daubechies2 y Symlet2 obtuvieron resultados idénticos pero inferiores (21.37 dB, 21.68 dB y 21.73 dB respectivamente).  
 
-TABLA  
+<div align="center">
+        <img src="./imagenes/Gráfica_SNR_EMG.png" alt="Tabla1 " width="35%">
+        <p><strong>Figura 2:</strong> Comparación de la relación señal-ruido (dB) de la señal EMG de 10 sujetos sanos después de la descomposición de sexto nivel utilizando las wavelets Daubechies2, Symlet2 y Coiflet2 [5]  </p>
+      </div>
+ 
 La superioridad de Coiflet2 se confirmó al validarse en 10 sujetos adicionales, destacando su potencial para aplicaciones clínicas donde la precisión en señales EMG es crítica, 
 como en diagnósticos neuromusculares o sistemas protésicos.  
 
@@ -154,12 +162,23 @@ Sobre el análisis de wavelet se empleó la transformada wavelet discreta donde 
 ortogonales aplicada en 5 regiones (frontal, temporal, parietal, occipital y central), sobre la frecuencia se separó en 5 niveles
 (delta a gamma). Finalmente se empleó el método estadístico ANOVA para identificar diferencias significativas en las correlaciones.  
 
-IMAGEN  
+<div align="center">
+        <img src="./imagenes/EEG1.png" alt="Tabla1 " width="65%">
+        <p><strong>Figura 3:</strong> Diagrama de bloques del método propuesto [6] </p>
+      </div>
 
 Se mencionó que se probaron 45 funciones madre wavelet, de las cuales destacan las funciones wavelet sym9, coif3 y  db7; Symlets (1-20),
 Coiflets (1-5) y Daubechies (1-20) respectivamente.  
 
-IMAGEN  
+<div align="center">
+        <img src="./imagenes/EEG2.png" alt="Tabla1 " width="65%">
+        <p><strong>Figura 4:</strong> Gráfico comparativo de los coeficientes de correlación con 45 filtros wavelet madre para la región frontal del cerebro en 10 sujetos control.[6] </p>
+      </div>
+
+<div align="center">
+        <img src="./imagenes/EEG3.png" alt="Tabla1 " width="65%">
+        <p><strong>Figura 5:</strong> Gráfico comparativo de los coeficientes de correlación con 45 filtros wavelet madre para la región temporal del cerebro en 10 sujetos control. [6] </p>
+      </div>
 
 Las imágenes presentadas representan la correlación entre la función y las 2 regiones estudiadas dentro del estudio, además se debe tomar en cuenta que la precisión del estudio del ANOVA permite notar que la correlación de Sym9 es 
 mayor a 0.5 siendo el máximo 1.  
