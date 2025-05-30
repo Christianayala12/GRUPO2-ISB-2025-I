@@ -105,7 +105,7 @@ la limpieza de señales EMG contaminadas. Este estudio surge de la necesidad de 
 cuál ofrece el mejor desempeño en la eliminación de ruido en señales EMG de personas sanas.
 
 #### Metodología:  
-- **Datos:** Señales EMG de sujetos sanos obtenidas de [emg_lab.net.](emg_lab.net.)
+- **Datos:** Señales EMG de sujetos sanos obtenidas de [emg_lab.net.](https://emglab.net/)
 - **Descomposición Wavelet:** Se probaron tres wavelets madre (Daubechies2, Symlet2, Coiflet2) en los niveles de descomposición 4°, 5° y 6°.
 - **Umbralización:** Se aplicó umbralización universal a los coeficientes de detalle para eliminar el ruido. 
 - **Cálculo del SNR:** Se estimó el SNR para evaluar la efectividad de cada wavelet.
