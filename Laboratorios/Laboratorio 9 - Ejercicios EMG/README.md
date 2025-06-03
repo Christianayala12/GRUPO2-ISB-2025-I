@@ -71,7 +71,14 @@ El cual nos da como resultado:
 - Escala 1.0: 98.6%
 
 Las gráficas son las siguientes:
-LAS IMAGENES
+
+| Gráfica EMG | Barras EMG   |
+|-------------------|------------------|
+| ![](imagenes/emg_02.png)| ![](imagenes/barra_02.png) | 
+| ![](imagenes/emg_04.png)| ![](imagenes/barra_04.png) | 
+| ![](imagenes/emg_06.png)| ![](imagenes/barra_06.png) | 
+| ![](imagenes/emg_08.png)| ![](imagenes/barra_08.png) | 
+| ![](imagenes/emg_1.png)| ![](imagenes/barra_1.png) | 
 
 Respondiendo la pregunta:
 - ¿A partir de qué nivel de desbalance la simetría cae por debajo de un umbral “aceptable” (p.ej. 80 %)?
@@ -139,7 +146,7 @@ signals, info = nk.emg_process(emg_total, sampling_rate=sampling_rate)
 # Graficar señal procesada
 nk.emg_plot(signals, info)
 ```
-IMAGEN 1
+![](imagenes/imag_1.png)
 ```
 # Limpieza manual de la señal
 emg_clean = nk.emg_clean(emg_total, sampling_rate=sampling_rate)
@@ -159,7 +166,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-IMAGEN 2
+![](imagenes/imag_2.png)
 ```
 ventana_duracion = 1  # segundos
 ventana_muestras = ventana_duracion * sampling_rate
@@ -218,7 +225,7 @@ plt.show()
 plt.tight_layout()
 plt.show()
 ```
-IMAGEN 3
+![](imagenes/imag_3.png)
 ```
 # Ajuste lineal RMS vs tiempo
 slope_rms, intercept_rms, r_rms, _, _ = linregress(tiempo_ventanas, rms_por_ventana)
@@ -252,7 +259,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-IMAGEN 4
+![](imagenes/imag_4.png)
 
 Respondiendo las preguntas:
 - ¿Cuál de las dos pendientes (RMS o freq_med) resulta ser un indicador más sensible a la fatiga en este escenario sintético? ¿Cómo cambiarían las pendientes si aumentas el nivel de ruido en la simulación?
