@@ -64,11 +64,11 @@ for i in range(len(scales)):
   print(f"Escala {scales[i]}: {ratios[i]:.1f}%")
 ```
 El cual nos da como resultado:
-Escala 0.2: 4.1%
-Escala 0.4: 16.2%
-Escala 0.6: 36.5%
-Escala 0.8: 64.9%
-Escala 1.0: 98.6%
+- Escala 0.2: 4.1%
+- Escala 0.4: 16.2%
+- Escala 0.6: 36.5%
+- Escala 0.8: 64.9%
+- Escala 1.0: 98.6%
 
 Las gráficas son las siguientes:
 LAS IMAGENES
