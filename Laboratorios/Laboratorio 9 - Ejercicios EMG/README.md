@@ -12,6 +12,8 @@
     Grafica en un único plot de barras el ratio obtenido frente al %% de escala utilizado.
     Pregunta de reflexión: ¿A partir de qué nivel de desbalance la simetría cae por debajo de un umbral “aceptable” (p.ej. 80 %)?
 
+[link del colab](https://colab.research.google.com/drive/1nlcD6l3YhqpRCKaE_su5G1Pc3AEmhgkB?usp=sharing)
+
 Primero, se instalan las librerías necesarias:
 ```
 !pip install -U neurokit2
@@ -101,6 +103,7 @@ Pregunta de reflexión:
 ¿Cuál de las dos pendientes (RMS o freq_med) resulta ser un indicador más sensible a la fatiga en este escenario sintético?
 ¿Cómo cambiarían las pendientes si aumentas el nivel de ruido en la simulación?
 
+[link del colab](https://colab.research.google.com/drive/1YaI9WnJqOkO9KKGbUdrrRCJZvccS5Yv0?usp=sharing)
 
 Primero, se instalan las librerías:
 ```
