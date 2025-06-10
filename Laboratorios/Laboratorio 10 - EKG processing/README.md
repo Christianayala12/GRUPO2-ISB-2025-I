@@ -47,7 +47,7 @@ plt.grid(ls=":")
 plt.tight_layout()
 plt.show()
 ```
-LA FOTO DE LA PRIMERA EKG AAAAAAAAAAA %%%%%%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_1.png)
 
 Y generamos la segunda señal EKG:
 ```
@@ -77,7 +77,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-LA FOTO DE LA SEGUNDA EKG AAAAAAAAAAA %%%%%%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_2.png)
 
 ## Actividad 2 <a name="n2"></a>
  #### - Para cada señal simulada, extraigan características básicas
@@ -101,7 +101,7 @@ print(f"Kurtosis: {kurtosis_ecg1}")
 print(f"Skewness: {skewness_ecg1}")
 print(f"Energy: {energy_ecg1}")
 ```
-LA FOTO DE LA IMPRESION DE EKG 1 AAAAAAAAAAA %%%%%%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_3.png)
 
 Para la segunda señal:
 ```
@@ -117,7 +117,7 @@ print(f"Kurtosis: {kurtosis_ecg2}")
 print(f"Skewness: {skewness_ecg2}")
 print(f"Energy: {energy_ecg2}")
 ```
-LA FOTO DE LA IMPRESION DE EKG 2 AAAAAAAAAAA %%%%%%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_4.png)
 
 ## Actividad 3 <a name="n3"></a>
  #### - Extraer caracteristicas de las señales EKG, reducir la dimensionalidad con PCA y graficas el scatterplot
@@ -175,7 +175,7 @@ combined_features_df = pd.concat(all_features, ignore_index=True)
 print("=== DataFrame con características extraídas ===")
 print(combined_features_df)
 ```
-PONER LA FOTO DE LA TABLA PANDA AAAAAAAAAAAAAAAAA %%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_5.png)
 
 Hacemos el PCA:
 ```
@@ -192,7 +192,8 @@ pca_df['Signal_Type'] = combined_features_df['Signal_Type']
 print("\n=== Resultados PCA (2 dimensiones) ===")
 print(pca_df)
 ```
-PONER LA FOTO DE LOS RESULTADOS DE LA PCA AAAAAAA
+![](imagenes/foto_6.png)
+
 Finalmente, graficamos el PCA:
 ```
 plt.figure(figsize=(8, 6))
@@ -212,7 +213,7 @@ plt.legend(title='Tipo de Señal')
 plt.tight_layout()
 plt.show()
 ```
-PONER LA FOTO DE LA GRAFICA DE PCA AAAAAAAAAAAAAAAAA %%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_7.png)
 
 ## Actividad 4 <a name="n4"></a>
  #### - De las 2 señales EKG creada, creado 3 mas adicionales con las mismas caracteristicas de estas 2 iniciales.
@@ -330,7 +331,7 @@ print(f"Kurtosis: {kurtosis_ecg_0}")
 print(f"Skewness: {skewness_ecg_0}")
 print(f"Energy: {energy_ecg_0}")
 ```
-PONER LA IMPRESION DEL PRIMER EKG %%%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_8.png)
 
 Segundo EKG (ekg 1):
 ```
@@ -346,7 +347,7 @@ print(f"Kurtosis: {kurtosis_ecg_1}")
 print(f"Skewness: {skewness_ecg_1}")
 print(f"Energy: {energy_ecg_1}")
 ```
-PONER LA IMPRESION DEL SEGUNDO EKG %%%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_9.png)
 
 Tercer EKG (ekg 2):
 ```
@@ -362,7 +363,7 @@ print(f"Kurtosis: {kurtosis_ecg_2}")
 print(f"Skewness: {skewness_ecg_2}")
 print(f"Energy: {energy_ecg_2}")
 ```
-PONER LA IMPRESION DEL TERCER EKG %%%%%%%%%%%%%%%%%%%%%%
+![](imagenes/foto_10.png)
 
 Ponemos las características en una tabla Panda:
 ```
@@ -414,7 +415,10 @@ combined_features_df = pd.DataFrame(all_features, columns=columns)
 print("=== Tabla de características ===")
 print(combined_features_df)
 ```
-PONER LA TABLA PANDA AAAAAAAAAAAAAAAA %%%%%%%%%%%
+![](imagenes/foto_11.png)
+![](imagenes/foto_12.png)
+![](imagenes/foto_13.png)
+![](imagenes/foto_14.png)
 
 Hacer el PCA
 ```
@@ -430,7 +434,8 @@ pca_df['Label'] = combined_features_df['Label']
 print("\n=== Resultados PCA (2D) ===")
 print(pca_df)
 ```
-PONER LA TABLA DE LOS RESULTADOS DE LA PCA AAAAAAA %%%%%%%%%%%%%%
+![](imagenes/foto_15.png)
+
 Y por último, graficar el PCA
 ```
 plt.figure(figsize=(8, 6))
@@ -450,4 +455,4 @@ plt.legend(title='Label')
 plt.tight_layout()
 plt.show()
 ```
-PONER LA IMAGEN DE LA GRAFICA DEL PCAAAAAAAAAA %%%%%%%%%%%%%%%%%%%%%%%%%%5
+![](imagenes/foto_16.jpeg)
