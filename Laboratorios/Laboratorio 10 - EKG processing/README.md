@@ -192,6 +192,7 @@ pca_df['Signal_Type'] = combined_features_df['Signal_Type']
 print("\n=== Resultados PCA (2 dimensiones) ===")
 print(pca_df)
 ```
+PONER LA FOTO DE LOS RESULTADOS DE LA PCA AAAAAAA
 Finalmente, graficamos el PCA:
 ```
 plt.figure(figsize=(8, 6))
