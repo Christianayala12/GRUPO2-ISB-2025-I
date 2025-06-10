@@ -415,9 +415,6 @@ combined_features_df = pd.DataFrame(all_features, columns=columns)
 print("=== Tabla de características ===")
 print(combined_features_df)
 ```
-![](imagenes/foto_11.png)
-![](imagenes/foto_12.png)
-![](imagenes/foto_13.png)
 ![](imagenes/foto_14.png)
 
 Hacer el PCA
