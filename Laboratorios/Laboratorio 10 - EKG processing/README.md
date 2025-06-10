@@ -262,6 +262,8 @@ plt.grid(ls=":")
 plt.tight_layout()
 plt.show()
 ```
+![](imagenes/foto_8.png)
+
 Segundo EKG (ekg 1):
 ```
 ti = np.array((-70, -15, 0, 15, 100))
@@ -289,6 +291,8 @@ plt.grid(ls=":")
 plt.tight_layout()
 plt.show()
 ```
+![](imagenes/foto_9.png)
+
 Tercer EKG (ekg 2):
 ```
 ti = np.array((-70, -15, 0, 15, 100))
@@ -316,7 +320,10 @@ plt.grid(ls=":")
 plt.tight_layout()
 plt.show()
 ```
+![](imagenes/foto_10.png)
+
 Luego, calculamos las caracteristicas de cada señal:
+
 Primer EKG (ekg 0)
 ```
 mean_ecg_0 = np.mean(ecg_0)
@@ -331,7 +338,7 @@ print(f"Kurtosis: {kurtosis_ecg_0}")
 print(f"Skewness: {skewness_ecg_0}")
 print(f"Energy: {energy_ecg_0}")
 ```
-![](imagenes/foto_8.png)
+![](imagenes/foto_11.png)
 
 Segundo EKG (ekg 1):
 ```
@@ -347,7 +354,7 @@ print(f"Kurtosis: {kurtosis_ecg_1}")
 print(f"Skewness: {skewness_ecg_1}")
 print(f"Energy: {energy_ecg_1}")
 ```
-![](imagenes/foto_9.png)
+![](imagenes/foto_12.png)
 
 Tercer EKG (ekg 2):
 ```
@@ -363,7 +370,7 @@ print(f"Kurtosis: {kurtosis_ecg_2}")
 print(f"Skewness: {skewness_ecg_2}")
 print(f"Energy: {energy_ecg_2}")
 ```
-![](imagenes/foto_10.png)
+![](imagenes/foto_13.png)
 
 Ponemos las características en una tabla Panda:
 ```
