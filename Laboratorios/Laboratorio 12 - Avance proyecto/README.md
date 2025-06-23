@@ -10,7 +10,7 @@ Se considera que los movimientos rápidos y repetitivos de los dedos al usar el 
 ### **Estadísticas**
 Tiempo de uso de computadoras durante el uso de recursos académicos en una biblioteca.
 
-%%%%%%%%%%%% IMAGENNNNNNNNNNNN
+![](imagenes/img_1.png)
 
 ### **Definición de la problemática**
 La fatiga muscular por uso prolongado de ordenadores ya sean portátiles o de escritorio suponen una reducción en la eficiencia del propósito de su uso. Las actividades que involucran el uso de los ordenadores son frecuentes tanto en entornos laborales como educativos, y su práctica prolongada puede inducir sobrecarga muscular, especialmente en los músculos del antebrazo, muñeca y mano.
@@ -40,7 +40,8 @@ Estudiantes con lesiones musculoesqueléticas en la zona del antebrazo actuales 
 
 #### **Cuestionario validado para clasificar a los participantes según su nivel de actividad física**
 
-Cuestionario Internacional de actividad física (IPAQ): (Anexo 1)
+Cuestionario Internacional de actividad física (IPAQ): (https://dialnet.unirioja.es/descarga/articulo/5920688.pdf)
+
 Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últimos 7 días. Se utiliza para categorizar la actividad física en niveles (bajo, moderado o alto). Cuenta con dos versiones, la versión corta de 7 preguntas y la versión larga de 27 preguntas.
 
 - Versión corta: Evalúa la frecuencia, duración e intensidad de la actividad física intensa, moderada, caminata y tiempo sentado. Es la versión más sencilla y recomendada para investigaciones.
@@ -54,15 +55,14 @@ Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últ
     - Actividad vigorosa: 8 Mets.
     - n° Mets. = Actividad * días * minutos 
 
-%%%%%%%%%%%%%%%%%%%%% FIGURAAAAAAAAAAAAAAAAAAA
+![](imagenes/img_2.png)
 
   - Niveles de actividad física:
     - Bajo: No cumple con las recomendaciones de actividad física.
     - Moderado: Cumple parcialmente
     - Alto: Cumple completamente con las recomendaciones
 
-%%%%%%%%%%%%%%%%%%%%% FIGURAAAAAAAAAAAAAAAAAAA
-
+![](imagenes/img_3.png)
 
 ### **Actividades a realizar**
 
@@ -86,6 +86,4 @@ Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últ
 2. https://elperiodicodeyecla.com/clicks-por-segundo-test-compruebe-que-tan-rapido-puede-hacer-clic/
 3. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S2631-27862021000400023
 4. https://pmc.ncbi.nlm.nih.gov/articles/PMC9798874/
-
-## **Anexo 1: Cuestionario Internacional de actividad física (IPAQ)**
 
