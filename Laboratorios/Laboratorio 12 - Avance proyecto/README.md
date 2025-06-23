@@ -42,21 +42,50 @@ Estudiantes con lesiones musculoesqueléticas en la zona del antebrazo actuales 
 
 Cuestionario Internacional de actividad física (IPAQ): (Anexo 1)
 Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últimos 7 días. Se utiliza para categorizar la actividad física en niveles (bajo, moderado o alto). Cuenta con dos versiones, la versión corta de 7 preguntas y la versión larga de 27 preguntas.
-Versión corta: Evalúa la frecuencia, duración e intensidad de la actividad física intensa, moderada, caminata y tiempo sentado. Es la versión más sencilla y recomendada para investigaciones.
-Aspectos clave:
-- Frecuencia: Días por semana de cada actividad
-- Duración: Tiempo por día de cada actividad
 
-El tiempo se mide en Mets (Unidades de Índice Metabólico), con valores de referencia:
-- Caminar: 3.3 Mets.
-- Actividad moderada: 4 Mets.
-- Actividad vigorosa: 8 Mets.
-- n° Mets. = Actividad * días * minutos 
+- Versión corta: Evalúa la frecuencia, duración e intensidad de la actividad física intensa, moderada, caminata y tiempo sentado. Es la versión más sencilla y recomendada para investigaciones.
+  - Aspectos clave:
+    - Frecuencia: Días por semana de cada actividad
+    - Duración: Tiempo por día de cada actividad
+  
+  - El tiempo se mide en Mets (Unidades de Índice Metabólico), con valores de referencia:
+    - Caminar: 3.3 Mets.
+    - Actividad moderada: 4 Mets.
+    - Actividad vigorosa: 8 Mets.
+    - n° Mets. = Actividad * días * minutos 
+
+%%%%%%%%%%%%%%%%%%%%% FIGURAAAAAAAAAAAAAAAAAAA
+
+  - Niveles de actividad física:
+    - Bajo: No cumple con las recomendaciones de actividad física.
+    - Moderado: Cumple parcialmente
+    - Alto: Cumple completamente con las recomendaciones
+
+%%%%%%%%%%%%%%%%%%%%% FIGURAAAAAAAAAAAAAAAAAAA
 
 
+### **Actividades a realizar**
+
+- Mecanografía:
+  - 15 min de mecanografía en una de las siguientes aplicaciones: https://agilefingers.com/es/test
+  https://www.keybr.com/es/ 
+  - Se medirá la actividad muscular en los 2 primeros y finales minutos de la realización de la mecanografía
+
+- Clicks:
+  - Se realizarán 2 actividades posibles durante 5 minutos cada uno y 2 minutos de descanso:
+    - Primera actividad: Clickear el mouse para diferentes objetivos (Flappy Bird, Dinosaur Game o Piano Tiles)
+    - Segunda actividad:  Clickear lo más rápido posible (https://orteil.dashnet.org/cookieclicker/) 
+  - Se medirá la actividad muscular en los 2 primeros y finales minutos de las actividades.
 
 
+### **Protocolo de Adquisición de Señales**
 
+## **Referencias**
 
+1. https://dapencentroestudios.com/importancia-mecanografia-por-ordenador/
+2. https://elperiodicodeyecla.com/clicks-por-segundo-test-compruebe-que-tan-rapido-puede-hacer-clic/
+3. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S2631-27862021000400023
+4. https://pmc.ncbi.nlm.nih.gov/articles/PMC9798874/
 
+## **Anexo 1: Cuestionario Internacional de actividad física (IPAQ)**
 
