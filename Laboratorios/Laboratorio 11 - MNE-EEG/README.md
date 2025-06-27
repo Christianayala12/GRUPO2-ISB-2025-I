@@ -9,7 +9,8 @@
 ## 1. Origen de los datos [1]
 Para el registro y análisis de las señales EEG se utilizó un equipo no invasivo Ultra Cortex Mark IV. Este dispositivo opera con una frecuencia de muestreo (fs) de 125 Hz, además presenta 16 electrodos secos (base de plata clorada). El dataset usado fue del paquete de MNE, la cual contiene una función que contiene señales EEG.
 
-%%%%%%%% FIGURAAAAAAAAAAAAA
+![](imagenes/figura_1.png)
+Fuente: https://pmc.ncbi.nlm.nih.gov/articles/PMC10505670/
 
 ## 2. Procedimiento de preprocesamiento [2]
 Especificar filtros aplicados (rangos frecuenciales, notch), método de alineación y eliminación de artefactos (ICA).
@@ -23,20 +24,17 @@ ica.exclude = [1, 2]  # details on how we picked these are omitted here
 ica.plot_properties(raw, picks=ica.exclude)
 ```
 
+![](imagenes/figura_2.png)
 
-%%%%%%%%%%%%% FIGURAAAAAAAAAAAA
-
-
-
+Fuente: https://www.researchgate.net/figure/EEG-data-before-and-after-ICA-artefacts-removal-artefacts-potentially-coming-from-eye_fig3_364936500
 
 
 
 
-## Referencas
+
+
+## Referencias
 [1]https://pmc.ncbi.nlm.nih.gov/articles/PMC10505670/ 
 [2]https://www.ncbi.nlm.nih.gov/books/NBK539805/
 [3]https://pubmed.ncbi.nlm.nih.gov/22112379/
 [4]https://www.researchgate.net/publication/340601936_IAC_On_the_Feasibility_of_Utilizing_Neural_Signals_for_Access_Control 
-
-
-
