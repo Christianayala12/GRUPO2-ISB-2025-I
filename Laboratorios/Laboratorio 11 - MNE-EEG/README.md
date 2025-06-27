@@ -5,6 +5,8 @@
 2. Optimización de características para ML
 3. Análisis integrado con MNE-Python
 
+En el siguiente enlace se presenta el código utilizado en este laboratorio, que abarca todos los pasos, desde la carga de los datos y el preprocesamiento, hasta la extracción de características y la implementación de técnicas de optimización y selección.  
+- [Código desarrollado](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%2011%20-%20MNE-EEG/ML_EEG_LAB_ISB.ipynb)
 
 ## 1. Origen de los datos [1]
 Para el registro y análisis de las señales EEG, se utilizó un equipo no invasivo Ultra Cortex Mark IV, que opera con una frecuencia de muestreo de 125 Hz. Este dispositivo cuenta con 16 electrodos secos de base de plata clorada. El conjunto de datos utilizado proviene del paquete MNE, específicamente de la función `mne.datasets.eegbci.load_data`, que permite cargar fácilmente señales EEG de la competencia BCI. Esta herramienta es ampliamente utilizada para el análisis de datos EEG en investigaciones sobre interfaces cerebro-computadora (BCI) y otras áreas neurocientíficas. Más detalles sobre esta función y cómo utilizarla están disponibles en la [documentación oficial de MNE](https://mne.tools/stable/generated/mne.datasets.eegbci.load_data.html).
@@ -29,10 +31,10 @@ ica.plot_properties(raw, picks=ica.exclude)
 Fuente: https://www.researchgate.net/figure/EEG-data-before-and-after-ICA-artefacts-removal-artefacts-potentially-coming-from-eye_fig3_364936500
 
 ## 3. Extracción de características
-[Extracción de características_ipynb](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%2011%20-%20MNE-EEG/ML_EEG_LAB_ISB.ipynb)
+Para la extracción de características, se utilizó el análisis **Wavelet Morlet** para obtener la representación tiempo-frecuencia (TFR) de las señales EEG. Este análisis se realizó en un rango de frecuencias de **4 a 40 Hz**. Las características extraídas fueron la **potencia espectral en diferentes bandas de frecuencia, como theta (4-8 Hz), alpha (8-12 Hz), beta (13-30 Hz) y gamma (30-40 Hz)**. Estas características representan la actividad eléctrica del cerebro en distintas frecuencias y son útiles para evaluar diferentes estados cognitivos o emocionales del sujeto. Posteriormente, **las potencias promedio por banda de frecuencia** fueron calculadas para cada época (segmento de tiempo) y canal. Estas características fueron usadas para analizar la actividad cerebral en relación con los eventos experimentales y para la clasificación de patrones de actividad cerebral.
 
 ## 4. Optimización y selección
-[Optimización y selección_ipynb](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%2011%20-%20MNE-EEG/ML_EEG_LAB_ISB.ipynb)
+Para optimizar y seleccionar las características, se utilizó **normalización con StandardScaler** para estandarizar las características y ponerlas en la misma escala. Luego, se aplicó **PCA** para reducir la dimensionalidad, manteniendo el 95% de la varianza explicada. Además, se calcularon **estadísticas temporales y frecuenciales (media, desviación estándar, máximo y mínimo)** de las características extraídas de las bandas de frecuencia, las cuales fueron usadas como entradas para el análisis y clasificación de las señales EEG.
 
 
 
