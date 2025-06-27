@@ -29,7 +29,7 @@ ica.plot_properties(raw, picks=ica.exclude)
 Fuente: https://www.researchgate.net/figure/EEG-data-before-and-after-ICA-artefacts-removal-artefacts-potentially-coming-from-eye_fig3_364936500
 
 ## 3. Extracción de características
-
+[enlace](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%2011%20-%20MNE-EEG/ML_EEG_LAB_ISB.ipynb)
 
 
 
