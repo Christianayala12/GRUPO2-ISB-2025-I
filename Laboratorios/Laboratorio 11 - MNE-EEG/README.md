@@ -31,7 +31,7 @@ Fuente: https://www.researchgate.net/figure/EEG-data-before-and-after-ICA-artefa
 ## 3. Extracción de características
 [Extracción de características_ipynb](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%2011%20-%20MNE-EEG/ML_EEG_LAB_ISB.ipynb)
 
-## 3. Optimización y selección
+## 4. Optimización y selección
 [Optimización y selección_ipynb](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/Laboratorios/Laboratorio%2011%20-%20MNE-EEG/ML_EEG_LAB_ISB.ipynb)
 
 
