@@ -7,7 +7,7 @@
 
 
 ## 1. Origen de los datos [1]
-Para el registro y análisis de las señales EEG, se utilizó un equipo no invasivo Ultra Cortex Mark IV, que opera con una frecuencia de muestreo de 125 Hz. Este dispositivo cuenta con 16 electrodos secos de base de plata clorada. El conjunto de datos utilizado proviene del paquete MNE, específicamente de la función mne.datasets.eegbci.load_data, que permite cargar fácilmente señales EEG de la competencia BCI. Esta herramienta es ampliamente utilizada para el análisis de datos EEG en investigaciones sobre interfaces cerebro-computadora (BCI) y otras áreas neurocientíficas. Más detalles sobre esta función y cómo utilizarla están disponibles en la [documentación oficial de MNE](https://mne.tools/stable/generated/mne.datasets.eegbci.load_data.html).
+Para el registro y análisis de las señales EEG, se utilizó un equipo no invasivo Ultra Cortex Mark IV, que opera con una frecuencia de muestreo de 125 Hz. Este dispositivo cuenta con 16 electrodos secos de base de plata clorada. El conjunto de datos utilizado proviene del paquete MNE, específicamente de la función `mne.datasets.eegbci.load_data`, que permite cargar fácilmente señales EEG de la competencia BCI. Esta herramienta es ampliamente utilizada para el análisis de datos EEG en investigaciones sobre interfaces cerebro-computadora (BCI) y otras áreas neurocientíficas. Más detalles sobre esta función y cómo utilizarla están disponibles en la [documentación oficial de MNE](https://mne.tools/stable/generated/mne.datasets.eegbci.load_data.html).
 
 ![](imagenes/figura_1.png)
 Figura 1: Las áreas de Brodmann y el sistema de colocación de electrodos 10-10
