@@ -72,8 +72,7 @@ Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últ
 ### **Actividades a realizar**
 
 - Mecanografía:
-  - 15 min de mecanografía en una de las siguientes aplicaciones: https://agilefingers.com/es/test
-  https://www.keybr.com/es/ 
+  - 15 min de mecanografía en una de las siguientes aplicaciones: https://www.keybr.com/es/ 
   - Se medirá la actividad muscular en los 2 primeros y finales minutos de la realización de la mecanografía
 
 - Clicks:
@@ -87,7 +86,9 @@ Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últ
 
 ### **Protocolo de Adquisición de Señales**
 #### **Materiales**
-Para hacer las mediciones, se utilizarán 2 Bitalinos por persona.
+Antes de realizar las mediciones, se limpió con Alcohol Isopropílico al 70% el brazo a estudiar y se conectaron los 2 Bitalinos que
+medirán los 2 músculos de interés del paarticipante.
+
 
 
 ### **Procesamiento de Señales**
@@ -288,6 +289,7 @@ def evaluar_matriz_confusion(modelo, val_loader):
 evaluar_matriz_confusion(cnn, val_loader)
 ```
 ![](imagenes/imagen_codigo.png)
+
 ## **Referencias**
 
 1. https://dapencentroestudios.com/importancia-mecanografia-por-ordenador/
