@@ -259,6 +259,7 @@ plt.show()
 # torch.save(cnn.state_dict(), "modelo_cnn_emg.pt")
 
 ```
+![](imagenes/imag_codigo.png)
 
 ```
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
@@ -286,7 +287,7 @@ def evaluar_matriz_confusion(modelo, val_loader):
 # 🔹 Llamar la función
 evaluar_matriz_confusion(cnn, val_loader)
 ```
-
+![](imagenes/imagen_codigo.png)
 ## **Referencias**
 
 1. https://dapencentroestudios.com/importancia-mecanografia-por-ordenador/
