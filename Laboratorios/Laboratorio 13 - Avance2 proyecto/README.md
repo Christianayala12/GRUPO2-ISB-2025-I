@@ -301,3 +301,5 @@ evaluar_matriz_confusion(cnn, val_loader)
 6. https://pubmed.ncbi.nlm.nih.gov/39405599/ 
 7. https://pubmed.ncbi.nlm.nih.gov/29791529/ 
 
+## **Póster**
+![](imagenes/poster.png)
