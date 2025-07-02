@@ -7,6 +7,11 @@ El uso de computadoras y otros dispositivos se encuentra en su nivel más alto h
 
 Se considera que los movimientos rápidos y repetitivos de los dedos al usar el teclado y/o la carga muscular estática y las posturas al usar el ratón son factores de riesgo importantes para los TME relacionados con las computadoras. El uso del mouse proporciona cierta evidencia fisiológica que puede explicar por qué el uso del mouse tiene una mayor asociación con lesiones relacionadas con la computadora.[4]
 
+No obstante, no todas las personas expuestas a estas tareas repetitivas desarrollan síntomas con la misma intensidad. Diversos estudios sugieren que la práctica regular de actividad física podría desempeñar un rol protector frente a la fatiga y los trastornos musculoesqueléticos. Por ejemplo, se ha encontrado que el ejercicio mejora la función ejecutiva y el rendimiento motor, incluso en tareas como la mecanografía [5]. Además, después de actividad física moderada, se observa un aumento en la velocidad de tipeo sin comprometer la precisión [6]. Sin embargo, se ha reportado una preocupante disminución en los niveles de actividad física, especialmente entre jóvenes peruanos, lo cual podría incrementar su vulnerabilidad frente al uso prolongado de dispositivos electrónicos [7].
+
+En este contexto, nuestra investigación busca comparar el desempeño en tareas de mecanografía y clickeo entre personas físicamente activas y aquellas que no realizan actividad física regular. El objetivo es identificar si existen diferencias significativas en la velocidad, precisión y signos de fatiga, lo que podría evidenciar el rol modulador de la condición física sobre los efectos del uso repetitivo de dispositivos tecnológicos. Con ello, se espera aportar evidencia que relacione el estilo de vida activo con una mejor tolerancia a las exigencias digitales cotidianas.
+
+
 ### **Estadísticas**
 Tiempo de uso de computadoras durante el uso de recursos académicos en una biblioteca.
 
@@ -86,3 +91,7 @@ Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últ
 2. https://elperiodicodeyecla.com/clicks-por-segundo-test-compruebe-que-tan-rapido-puede-hacer-clic/
 3. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S2631-27862021000400023
 4. https://pmc.ncbi.nlm.nih.gov/articles/PMC9798874/
+5. https://www.biomedcentral.com/epdf/10.1186/1479-5868-8-98?sharing_token=m-57djXtO-MBCbJsHtDPcm_BpE1tBhCbnbw3BuzI2RN2QVl0o6IRGvx-oRNffeIDF9CYdA88GuExeEL3euE4kNTxLnpLM1Tsv3W8D_RJ5-OJffm9pQhd4O1zr_JuhgZcBO7pNcPzV8t2w2mdP50lOw%3D%3D 
+6. https://pubmed.ncbi.nlm.nih.gov/39405599/ 
+7. https://pubmed.ncbi.nlm.nih.gov/29791529/ 
+
