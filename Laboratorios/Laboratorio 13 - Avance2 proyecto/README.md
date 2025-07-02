@@ -89,7 +89,8 @@ Evalúa el nivel de actividad física de adultos entre 18 y 65 años en los últ
 Antes de realizar las mediciones, se limpió con Alcohol Isopropílico al 70% el brazo a estudiar y se conectaron los 2 Bitalinos que
 medirán los 2 músculos de interés del paarticipante.
 
-
+![](imagenes/electrodos1.png)
+![](imagenes/electrodos2.png)
 
 ### **Procesamiento de Señales**
 #### **Código**
