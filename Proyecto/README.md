@@ -20,3 +20,7 @@ Los resultados mostraron un rendimiento limitado del modelo (precisión de entre
 - **No se encontraron diferencias significativas en la activación muscular entre estudiantes físicamente activos y sedentarios.**
 
 - Factores como el tamaño reducido de muestra, la variabilidad en técnicas de mecanografía y el agarre del mouse podrían haber influido en los resultados.
+
+## Quienes somos
+Este proyecto fue desarrollado por el [Equipo GRUPO2-ISB-2025-I](https://github.com/Christianayala12/GRUPO2-ISB-2025-I/blob/master/README.md), conformado por estudiantes de Ingeniería Biomédica de la PUCP y UPCH, como parte del curso Introducción a Señales Biomédicas. En el repositorio se encuentra el código, documentación y recursos utilizados para el análisis de señales EMG durante tareas digitales.
+
