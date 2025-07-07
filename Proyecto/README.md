@@ -1,4 +1,5 @@
-# **Proyecto: Analysis of Forearm Muscle Activation During Typing and Clicking Tasks in University Students**
+# **Project: Analysis of Forearm Muscle Activation During Typing and Clicking Tasks in University Students**
+# **Proyecto:Análisis de la activación muscular en músculos del antebrazo durante tareas de mecanografía y uso del mouse en estudiantes universitarios**
 
 ## Motivación
 El uso intensivo de computadoras en estudiantes universitarios ha generado un aumento en la incidencia de fatiga muscular y trastornos musculoesqueléticos, especialmente en los músculos del antebrazo involucrados en tareas repetitivas como la mecanografía y el clickeo. Aunque se sugiere que la actividad física regular podría tener un efecto protector, existen pocos estudios que evalúen su impacto directo sobre la activación muscular durante estas actividades cotidianas.
